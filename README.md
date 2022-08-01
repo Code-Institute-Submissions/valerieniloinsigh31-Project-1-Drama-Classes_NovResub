@@ -1,108 +1,108 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+PURE DRAMA FOR TWEENS AND TEENS
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This section is 1/2 paragraphs providing an overview of the project. Sales pitch.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+-What the project hopes to accomplish. The project should successfully display what is on offer with the classes (content/format), describe who the facilitator/teacher is and what their experience is and describe the format of the end-of-term shows and what the students could aim to participate in. Also different payment structures and means of payment should be described as well as the location of the classes and show (in the local Commnuity Hall). It should be revealed how the classes can be offered one-on-one or to groups, what times are available and what level of commitment is required.
+-Who the project is targetting.
+The project is targetting the parents of tweens and teens as well as the tweens and teens in the locality who are looking to make better use of their spare time or to experiment with different styles of performance (comedy, stand up, imrpoviation, monologe, duologue, mc etc.) The classes are suitable for those who wish to perform in the end of term show, which will be open for the attendance of the general public but equally suitable to those who do not wish to perform at all or who simply want to attend on a casual basis/to gain confidence in their own lives. Potentially an alternative to locals who do not have an interest in the vibrant sports scene and wish to have a different social outlet. Also suitable for those who wish to write material for others as opposed to performing themselves. As this will be the inaugural year of the project, with the founder and facilitator, Bernie O'Hara havign recently graduated with honors from a degree in Threatre in 'Trinity College, Dublin', and due to initial lack of funding, efforts will be expected from the town to contribute to the sucess of the show.
+-How it will be useful to a target audience.
+The website will be useful in conveying potential and what is possible to people of the town. The landing page will have some key information about target group, price and commitment required to succeed. It will describe the suggested format of the classes, which is adaptable. It will provided alternative locations and times as well as a brief intro video from the teacher showcasing some of her students/past work/show reel, with her introducing how she plans on strutcuring the term. There will be a naviagtion section that leads to two other pages (Gallery and Sign-Up page).
 
-## Gitpod Reminders
+The gallery will showcase the location/space on offer for the classes as well as the stage/hall area where the end of term showcase will take place. It will also show photos of different performance styles, with hyperlinks included underneath that provided further information (stand-up comedy, commedia dell arte, improvisation, emceeing, duologues and monologue performance)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+The Sign Up page, will allow the user to input their details (stating whether they are the potential student of a parent of the student) Other information that will be gather includes area of interest, male/female, age, whether mid-week or weekend classes suit better, willingness to perform in the end of term show and expected level of commitment.
 
-`python3 -m http.server`
+FEATURES:
+Explanation of the value that the feature provides for the user: Landing page, intro video, animation, external links, gallery, sign up page
+Who website is for: Tweens, teens and their parents/families
+What they want to achieve: End of term performance, build confidence, write for end of term performance
 
-A blue button should appear to click: _Make Public_,
+EXISTING FEATURES
+-Navigation Bar
+Featured on all 3 pages...fully respsonsive navigation bar includes links to the Logo, Home Page, Gallery and Sign Up Page
+Allows suer to easily navigate from page to page without reverting back to the previous page
 
-Another blue button should appear to click: _Open Browser_.
+PURE DRAMA FOR TWEENS AND TEENS
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+-Landing page image
+-Landing page includes a photograph of the rural town in which the classes will take place, to emphasize the community element, The community hall will be visible in the photo as well as other parts of the town
+-To convey the theatrical/performance element of the service being offered, a fun animation also launches on the landing page
 
-A blue button should appear to click: _Make Public_,
+-What's on Offer section
+This section will allow the user to see the nebefits of joining the classes, whether they aim to participate in the end of term performance or simply want to build confidence/participate socially
+It will outline the beneifts of drama and creativity and fostering one's own creativity to create a sense of general well being and fun. It will explain the benefits/release involved with the different performance styles in a low pressure setting, without having to perform, with classes offered individually or in groups
 
-Another blue button should appear to click: _Open Browser_.
+-Class Times and Locations section
+Allows the user to see what time slots are available for group and individual classes. The classes will all be held in the Community hall at different times and days, with different focuses. 
+This section will be updated weekly, where time slots become available/new classes are offered/added or rehearsals are put in place for the end of term show.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+-The Footer
+This includes links to relevant social media sites for 'Pure Drama for Tweens and Teens' including facebook, instagram, twitter and tiktok.
+The footer is valuable ot the user as it encourages them to keep connected via social media.
 
-To log into the Heroku toolbelt CLI:
+-Gallery
+The gallery will proivde the user with supporting images from the local launch day where the facilitator demonstrated improv games with locals. There will also be photos of the rehearsal and performance space that will be used. There will also be photos with descriptions and hyperlinks to external pages containing more information with regard to the different performance styles/influences. This will include, stand-up comedy (with clips to some of the facilitoros former student shows from a performing arts camp she working in NY whilst at university) Also stills from various plays will be shown to showcase acting, etc.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+-The Sign Up Page
+ This page will allow the user to get signed up to the classes. The user will be able to specify whether they are interested in individua/group classes, mid-week or weekend classes, their chosen area of interest (acting/stand-up/improvisation/writing/emceeing). The user will be asked to submit their full name, email address, age and level of experience.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+ -Features left to implement
 
-------
+ Currently working with a videographer who, with express permission, will record and edit segments of classes as well as the end of terms performance and a showcase of this will be placed on the website.
 
-## Release History
+ TESTING
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+ -Purpose of this section is to convince the assessor thatyou have conducted enough testing to legitimately believe that the sit works well. Go over all project's features and ensure they work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+ Mention how the project looks and works on different browsers and screen sizes...pc/laptop/mobile.
+  
+  Interesting bugs and problems discovered whilst testing:
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+  Addressed:
+  Unaddressed bugs and problems:
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+  Validator Testing:
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+  HTML: 
+  No errors were returned when passing through the official W3C validator.
+  CSS:
+  No errors were found when passing through the official (Jigsaw) validator.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+  UNFIXED BUGS
+   
+   Mention unfixed bugs and why they were not fixed. Include shortcomings of the frameworks and technologies used. Don't use lack of time as an excuse.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+   DEPLOYMENT
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+   Description of the process undergone to deploy the project to a hosting platform (e.g. GitHub)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+   The site was deployed to GitHub pages. Steps to deploy:
+   -In GitHub repositary, navigated to the Settings tab
+   -From the source section drop-down menu, selected the Master Branch
+   -Once the master branch was selected, the page automatically refreshed with a detailed ribbon display to indicate the successful deployment
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+   Live link can be found here:
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+   CREDITS:
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+   Reference where content came from, where media came from and where extra help came from
+   -common practice to use code from other repositaries and tutorials-important to be specific to avoid plagiarism
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+   Break credits section into Content and Media:
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+   CONTENT:
+   -Text for homepage was taken from ''
+   -Instructions on how to implement from validation on the SignUp page was taken from ''
+   -Icons in the footer were taken from Font Awesome
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+   MEDIA:
 
-------
+   The photos used on the home and sign up page are from ''
+   The images used for the gallery page were taken from ''
+   
 
-## FAQ about the uptime script
 
-**Why have you added this script?**
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+Based in beautiful rural town of Clonakilty, in the natural, rural surroundings of West Cork, 'Pure Drama Classes' will see newly qualified theatre Graduate, Valerie Ni Loinsigh, offer after-school midweek and weekend classes to tweens and teens. There will be two semesters during the year (September to December and February to May) which will culminate in a two hour long show of what the students have learned during the class.
