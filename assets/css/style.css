@@ -35,19 +35,28 @@ nav a:hover {
 }
 
 /*Pure Drama intro*/
+h2 {
+    text-align:center;
+    color:white;
+}
+
+h1 {
+    text-align:center;
+    color:black;
+}
 
 p {
     max-width: 50%;
     max-height: 200px;
-    border: solid 1px #555555;
+    color:white;
+    text-align:left;
 }
 
-h2 {
-    text-align:center;
-}
+
+
 
 .intro {
-    background-color:bisque;
+    background-color: #6D10FF;
 }
 
 
@@ -79,6 +88,17 @@ h2 {
     box-sizing:border-box;
 
 }
+
+/*location*/
+
+.town-hall {
+    font-size: 180%;
+    color: greenyellow;
+    background-color:#6D10FF;
+
+
+}
+
 
 /*footer*/
 
