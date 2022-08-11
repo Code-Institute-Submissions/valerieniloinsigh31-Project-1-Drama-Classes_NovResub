@@ -38,21 +38,6 @@ p {
     border: solid 1px #555555;
 }
 
-.card {
-    float:left;
-    width:10%;
-    margin-left:10%;
-}
-
-.card a {
-    text-align:center;
-}
-
-img {
-    width: 10%;
-    height:10px;
-}
-
 h2 {
     text-align:center;
 }
@@ -73,6 +58,12 @@ h2 {
     display:inline-block;
 }
 
-#Class Times {
-    background-image; url()
+#class-times {
+    background-image: url('../images/Empty\ auditorium.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+    color: white;
 }
