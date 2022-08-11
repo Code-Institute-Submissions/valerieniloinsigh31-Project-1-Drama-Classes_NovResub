@@ -34,6 +34,16 @@ nav a:hover {
     color:#4a4a4f;
 }
 
+/*Landing page*/
+
+/*town-hall-image*/
+
+#town-hall-image {
+    height: 1000px;
+    width:100%;
+    background: url(/assets/images/Town\ Hall.avif) no-repeat center center;
+}
+
 /*Pure Drama intro*/
 h2 {
     text-align:center;
@@ -46,14 +56,9 @@ h1 {
 }
 
 p {
-    max-width: 50%;
-    max-height: 200px;
     color:white;
     text-align:left;
 }
-
-
-
 
 .intro {
     background-color: #6D10FF;
@@ -95,10 +100,7 @@ p {
     font-size: 180%;
     color: greenyellow;
     background-color:#6D10FF;
-
-
 }
-
 
 /*footer*/
 
@@ -122,3 +124,36 @@ footer {
     color: #3a3a3a;
 }
 
+/*Mission page*/
+
+.Mission {
+    background-color:#6D10FF;
+    color:white;
+}
+
+/*Joanne section*/
+
+.Joanne {
+    background-color:#6D10FF;
+    color:white;
+}
+
+/*Class description section*/
+
+.Classes {
+    background-color:#6D10FF;
+    color:white;
+}
+
+#mission-image {
+    height: 600px;
+    width:100%;
+    background: url(/assets/images/mission.avif) no-repeat center center;
+}
+
+/*Joanne Downey description section*/
+#joanne-downey-image {
+    height: 1000px;
+    width:100%;
+    background: url(/assets/images/Joanne\ Downey\ .avif) no-repeat center center;
+}
