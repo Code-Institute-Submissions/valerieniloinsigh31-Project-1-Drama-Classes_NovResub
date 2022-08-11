@@ -5,6 +5,8 @@ body {
     background-color: #0000ff00;
 }
 
+/*headings*/
+
 nav ul {
     list-style:none;
     background-color: #6D10FF;
@@ -32,6 +34,8 @@ nav a:hover {
     color:#4a4a4f;
 }
 
+/*Pure Drama intro*/
+
 p {
     max-width: 50%;
     max-height: 200px;
@@ -52,11 +56,7 @@ h2 {
     background-color: aquamarine;
 }
 
-.Links 
-{
-    background-color: teal;
-    display:inline-block;
-}
+/*class times*/
 
 #class-times {
     background-image: url('../images/Empty\ auditorium.avif');
@@ -65,5 +65,40 @@ h2 {
     background-position: center;
     width: 100%;
     overflow: hidden;
-    color: white;
 }
+
+#class-times div {
+    color:#fff;
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0px 0px 10px;
+    text-align:center;
+    border: 2px solid red;
+    box-sizing:border-box;
+
+}
+
+/*footer*/
+
+footer {
+    height: 150px;
+}
+
+.Links 
+{
+    text-align: center;
+}
+
+.Links > li {
+    display: inline;
+}
+
+.Links i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
