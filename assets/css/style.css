@@ -167,8 +167,10 @@ footer {
 }
 
 .joanne-image {
-    margin-left: 340px;
+    margin-left: 40%;
     border-radius:50%;
+    height:20rem;
+    width:20rem:
 }
 
 /*Classes description section*/
@@ -179,28 +181,28 @@ footer {
 }
 
 .classes-image-one {
-    max-width: 20%;
-    max-height: 20%;
+    width:20rem;
+    height:10rem;
 }
 
 .classes-image-two {
-    max-width: 20%;
-    max-height: 20%;
+    width:20rem;
+    height:10rem;
 }
 
 .classes-image-three {
-    width: 20%;
-    height: 20%;
+    width:5rem;
+    height:10rem;
 }
 
 .classes-image-four {
-    max-width: 20%;
-    max-height: 20%;
+    width:20rem;
+    height:10rem;
 }
 
 .classes-image-five {
-    max-width: 20%;
-    max-height: 20%;
+    width:20rem;
+    height:10rem;
 }
 
 /*Sign-Up Page*/
