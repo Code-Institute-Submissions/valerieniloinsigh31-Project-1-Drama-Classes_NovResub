@@ -172,28 +172,28 @@ footer {
 }
 
 .classes-image-one {
-    max-width: 250px;
-    max-height: 250px;
+    max-width: 20%;
+    max-height: 20%;
 }
 
 .classes-image-two {
-    max-width: 250px;
-    max-height: 250px;
+    max-width: 20%;
+    max-height: 20%;
 }
 
 .classes-image-three {
-    width: 200px;
-    height: 200px;
+    width: 20%;
+    height: 20%;
 }
 
 .classes-image-four {
-    max-width: 250px;
-    max-height: 250px;
+    max-width: 20%;
+    max-height: 20%;
 }
 
 .classes-image-five {
-    max-width: 250px;
-    max-height: 250px;
+    max-width: 20%;
+    max-height: 20%;
 }
 
 /*Sign-Up Page*/
