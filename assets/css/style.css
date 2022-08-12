@@ -170,7 +170,7 @@ footer {
     margin-left: 40%;
     border-radius:50%;
     height:20rem;
-    width:20rem:
+    width:20rem;
 }
 
 /*Classes description section*/
@@ -181,28 +181,29 @@ footer {
 }
 
 .classes-image-one {
-    width:20rem;
-    height:10rem;
+    width:20vw;
+    height:35vh;
+    margin-left:6px;
 }
 
 .classes-image-two {
-    width:20rem;
-    height:10rem;
+    width:20vw;
+    height:35vh;
 }
 
 .classes-image-three {
-    width:5rem;
-    height:10rem;
+    width:18vw;
+    height:35vh;
 }
 
 .classes-image-four {
-    width:20rem;
-    height:10rem;
+    width:20vw;
+    height:35vh;
 }
 
 .classes-image-five {
-    width:20rem;
-    height:10rem;
+    width:20vw;
+    height:35vh;
 }
 
 /*Sign-Up Page*/
