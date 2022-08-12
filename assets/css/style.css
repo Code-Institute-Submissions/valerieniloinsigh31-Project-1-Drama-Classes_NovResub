@@ -276,5 +276,8 @@ footer {
     background-color:aqua;
   }
 
-  /*Responsive design*/
+  /*Responsive picture*/
 
+  .sign-up-picture {
+    margin-left: 20%;
+  }
