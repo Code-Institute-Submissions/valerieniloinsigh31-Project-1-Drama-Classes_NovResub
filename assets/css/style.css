@@ -289,8 +289,12 @@ footer {
     margin-left: 20%;
   }
 
-  /*Form section pseudo-selector, applying focus*/
+  /*Form section pseudo-selector, applying focus to inputs and textareas*/
   input:focus {
+    background: pink;
+  }
+
+  textarea:focus {
     background: pink;
   }
  
