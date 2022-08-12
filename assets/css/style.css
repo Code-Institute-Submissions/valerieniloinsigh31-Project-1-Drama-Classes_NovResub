@@ -5,7 +5,7 @@ body {
     background-color: #0000ff00;
 }
 
-/*headings*/
+/*Navigational headings*/
 
 nav ul {
     list-style:none;
@@ -28,6 +28,7 @@ nav a {
     color:#fff;
     display:block;
 }
+/*Responsive hover on navigation section*/
 
 nav a:hover {
     background-color:#fff;
@@ -152,17 +153,47 @@ footer {
 }
 
 /*Joanne Downey description section*/
-#joanne-downey-image {
+.joanne-downey-image {
     height: 1000px;
     width:100%;
     background: url(/assets/images/Joanne\ Downey\ .avif) no-repeat center center;
 }
 
+.joanne-image {
+    margin-left: 340px;
+    border-radius:50%;
+}
+
 /*Classes description section*/
-#classes-image {
-    height: 800px;
-    width:100%;
-    background: url(/assets/images/happy\ group.avif) no-repeat center center;
+
+/*Classes images*/
+.Classes {
+    Display:inline-block
+}
+
+.classes-image-one {
+    max-width: 250px;
+    max-height: 250px;
+}
+
+.classes-image-two {
+    max-width: 250px;
+    max-height: 250px;
+}
+
+.classes-image-three {
+    width: 200px;
+    height: 200px;
+}
+
+.classes-image-four {
+    max-width: 250px;
+    max-height: 250px;
+}
+
+.classes-image-five {
+    max-width: 250px;
+    max-height: 250px;
 }
 
 /*Sign-Up Page*/
