@@ -43,6 +43,7 @@ nav a:hover {
     height: 1000px;
     width:100%;
     background: url(/assets/images/Town\ Hall.avif) no-repeat center center;
+    border:#6D10FF solid 2px;
 }
 
 /*Pure Drama intro*/
@@ -287,6 +288,13 @@ footer {
   .sign-up-picture {
     margin-left: 20%;
   }
+
+  /*Form section pseudo-selector, applying focus*/
+  input:focus {
+    background: pink;
+  }
+ 
+
 
     /*Contact details table*/
     .contact-table {
