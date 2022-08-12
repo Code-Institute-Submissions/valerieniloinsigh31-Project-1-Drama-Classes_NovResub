@@ -40,8 +40,8 @@ nav a:hover {
 /*town-hall-image*/
 
 #town-hall-image {
-    height: 1000px;
-    width:100%;
+    height: 100rem;
+    width:100rem;
     background: url(/assets/images/Town\ Hall.avif) no-repeat center center;
     border:#6D10FF solid 2px;
 }
