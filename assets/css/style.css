@@ -168,6 +168,7 @@ footer {
 /*Sign-Up Page*/
 
 /*Spinner design*/
+
 .spinner {
     margin: 100px auto;
     width: 40px;
@@ -216,3 +217,29 @@ footer {
       -webkit-transform: scale(1.0);
     }
   }
+
+  /*Sign-Up Form part 1*/
+
+  .form-section {
+    background-color: #6D10FF;
+    color:white;
+    border: aqua;
+    font-style: oblique;
+  }
+
+  /*Sign-Up Form part 1*/
+
+  .form-section-two {
+    background-color: #6D10FF;
+    color:white;
+    border: aqua;
+  }
+
+  .join-button {
+    color:#6D10FF;
+    background-color:aqua;
+  }
+
+  /*Responsive design*/
+
+  
