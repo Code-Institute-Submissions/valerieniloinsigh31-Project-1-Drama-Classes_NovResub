@@ -94,9 +94,6 @@ The gallery will proivde the user with supporting images from the local launch d
    CREDITS:
 
    Reference where content came from, where media came from and where extra help came from
-   -common practice to use code from other repositaries and tutorials-important to be specific to avoid plagiarism
-
-   Break credits section into Content and Media:
 
    CONTENT:
    -Text for homepage was taken from ''
@@ -111,13 +108,33 @@ The gallery will proivde the user with supporting images from the local launch d
    The iframe that showcases the location of the town is taken from ''
 
    2. Our Mission Page
-   The 'road ahead' picture was taken from
-   The Joanne Downey photo was taken from
-   
+   The 'road ahead' picture was taken from ''
+   The Joanne Downey photo was taken from ''
+   The five photos in the classes section was taken from the following, respective places: ""
+   Group of Silhoutettes in the Sun:
+   Commedia dell'arte mask with rose:
+   Illuminated rows of red seats at the theatre:
+   Clapper, cinema tickets and popcorn:
+   Hand procuring a microphone in a circle of light:
 
-   
-   
+   The icons beside the class descriptions came from font awesome
 
+   3. Sign-Up Form
+   The loading spinner animation was extracted from:
+   The phots came from the following respective sources:
+   600px photo of ''
+   1000px photo of ''
+   Image alternative photo of ''
+   The icones beside titles, radiobuttons and checkboxes came from font awesome 
 
+   The idea for the collapsible widget came from '
 
-Based in beautiful rural town of Clonakilty, in the natural, rural surroundings of West Cork, 'Pure Drama Classes' will see newly qualified theatre Graduate, Valerie Ni Loinsigh, offer after-school midweek and weekend classes to tweens and teens. There will be two semesters during the year (September to December and February to May) which will culminate in a two hour long show of what the students have learned during the class.
+ -Common practice to use code from other repositaries and tutorials-important to be specific to avoid plagiarism
+Code inspired by other repositaries and tutorials:
+
+-Navigation tab-tutorial
+-iframe for applause video, site offers option to copy code directly
+-The format of the class slots is taken from the 'Love Running' tutorial
+-The Social links footer is taken from the 'Love Running' tutorial
+-The Sign-Up form section was inspired by Love-Running
+-The collapsible widget was inspired by ''
