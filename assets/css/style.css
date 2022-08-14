@@ -287,6 +287,17 @@ footer {
     background-color:aqua; 
   }
 
+  .info-button {
+    color:#6D10FF;
+    background-color:aqua; 
+  }
+
+  .type-button {
+    color:#6D10FF;
+    background-color:aqua;  
+}
+
+
   .feedback-button {
     color:#6D10FF;
     background-color:aqua;
