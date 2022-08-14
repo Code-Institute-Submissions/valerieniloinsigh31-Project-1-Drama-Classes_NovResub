@@ -26,6 +26,7 @@ What they want to achieve: </p>
 
 <b>EXISTING FEATURES</b>
 <p>
+1. Welcome Landing Page:
 <ol>
 <li>
 <b>Feature: Navigation Bar</b>
@@ -33,9 +34,9 @@ The value the feature provides: Enables the user to navigate from page to page e
 What it aims to achieve: This feature will reduce the level of scrolling and divide the website into three different tabs.This is featured on all three tabs for consistency and so the user can easily navigate from tab to tab without reverting back to the previous page. The fully responsive navigation bar includes links to the Landing Page denoted as 'Welcome', the mission page denoted as Our Mission and the Sign-Up page, denoted as "Sign-Up" form.
 </li>
 <li>
-<b>Feature: </b>
-The value the feature provides:
-What it aims to achieve:
+<b>Feature: Video of applause that autoplays when scrolled onto</b>
+The value the feature provides: Makes the page more animated and creates a sense of energy. 
+What it aims to achieve: The user does not have to do anything aside from scroll over the video for it to play automatically. It is also muted to avoid disruption as the audio of the video might be uncomfrtable/unwanted for the user if they are in the library or a quiet area for example or listening to music.
 </li>
 <li>
 Feature:
@@ -43,43 +44,77 @@ The value the feature provides:
 What it aims to achieve:
 </li>
 <li>
-Feature:
-The value the feature provides:
-What it aims to achieve:
+Feature: Iframe map of Clonakilty
+The value the feature provides: Provides the user with an idea of where the classes are located
+What it aims to achieve: Creates a visual of the location of the classes so even if the user is not familiar with the town, they can get a general idea of whether the classes are within a commutable distance of their location
+</li>
+<li>
+Feature: Social links that include hyperlinks to the social media that open in a separate tab
+The value the feature provides: Though these are generic links currently, the idea is that the personalised facebook, instagram, youtube and twitter pages related to Pure Drama will open. This will cause a strong link between the website and all alternative forms of online presence. The facebook and instagram will showcase the amount of support, witht he yotube showing view count and the youtube page will be fully dedciated to long-form videos and demonstrations. The twitter account also will be linked with daily updates and the ability to follow the twitter also in place.
+What it aims to achieve: Interconnects all online platforms. Creates momentum as if there is a strong presence or following on one platform, it is likely to positively affect the other platforms/inspire people to join the classes/gorw people's confidence in the quality of the programme.
 </li>
 </ol>
-Feature:
+2. Our Mission Page
+<ol>
+<li>
+Feature: Navigation tab
+The value the feature provides: Contains the same functionality as discussed on the 'Welcome-Landing' page
+What it aims to achieve: Makes the website easy to navigate and lends a consistency to each of the separate pages on the website
+</li>
+<li>
+Feature: Social links 
+The value the feature provides: Creates the same effect as discussed on Welcome landing page
+What it aims to achieve: Lends a consistency to each of the separate pages on the website and creates a link between all online platforms
+</li>
+3. Sign-Up Page
+<ol>
+<li>
+Feature: Loading spinner
+The value the feature provides: Though this animation is usually used to signify loading, I added it as an omnipresent feature on the Sign-Up page that was not connected with loading. 
+What it aims to achieve: I did this as I want it to propel a feeling of momentum and action in the user of the website, who is supposed to be inspired to fill out the 'Sign-Up' form
+</li>
+<li>
+Feature: Responsive picture that changes based on the browser.
+The value the feature provided: One image is presented on viewports with max-widths of 699px (e.g. an iphone), a different photo is shown on viewports over 700px and up to 2000px (e.g. a laptop). If there is any issue with the brower, an separate image is also included as an alternative
+What it aims to achieve: Present alternative photos that are more suited to different viewports (iphone versus laptop) and also offer an alternative image if there is any issue opening these pictures
+</li>
+<li>
+Feature: Field-sets to enter contact details
+The value the feature provided: Ability for the user to submit important personal information quickly and safely to the website facilitator
+What it aims to achieve: Present an interactive and clearly laid out section where the user can input their name and email address. There fields also change pink when the user clicks on them.
+</li>
+<li>
+Feature: Radio buttons for the type of class the user wants to participate in
+The value the feature provided: This will give the website facilitator vital information about the demand of the classes by type
+What it aims to achieve: The user can only select one of the three options 'Individual', 'Group' or both so that they don't accidentally sign up for group classes if they solely want individual classes or vice versa. it is also a required featured so the submit button will not function if an option is not selected
+</li>
+<li>
+Feature: Checkboxes for the style of classes that the user wants to participate in
+The value the feature provides: This will provide vital information to the website facilitator about the demand for classes and what classes are popular
+What it aims to achieve: The user can select as many styles of classes as they like and the information will be provided to the website facilitator
+</li>
+<li>
+Feature: A feedback box
+The value the feature provides: A box where the user can type in any requests that they have or any feedback that they have for the website facilitator. The smaller size of the box is supposed to indicate tha the nature of the feedback at this point is supposed to be concise as the classes have not start yet.
+What it aims to achieve: Provide a voice to potential students who would like to request something that is absent on the website/not offered. This feedback will go directly to the facilitator and is not anonymous so can be responded to also. The box becomes highlighted in pink when words are being input, to avoid the user accidentally typing into it and submitting when not intended 
+</li>
+<li>
+Feature: Collapsible contact details widget
+The value the feature provides: An interactivw widget feature wherein the user of the website can click on the doropdown to reveal the contact information if they want to
+What it aims to achieve: A stylish and comfortable feature that requires action prior to revealing the contact details and that will hide automatically once the page reloads. This will also create a sense of confidence that only people who are interested in the classes/have read through the website will contact the facilitators as opposed to someone who is not serious and just wants to prank email the facilitators
+</li>
+</ol>
 </p>
 
-PURE DRAMA FOR TWEENS AND TEENS
+<b>Features left to implement (Future Features)</b>
 
--Landing page image
--Landing page includes a photograph of the rural town in which the classes will take place, to emphasize the community element, The community hall will be visible in the photo as well as other parts of the town
--To convey the theatrical/performance element of the service being offered, a fun animation also launches on the landing page
-
--What's on Offer section
-This section will allow the user to see the befits of joining the classes, whether they aim to participate in the end of term performance or simply want to build confidence/participate socially
-It will outline the beneifts of drama and creativity and fostering one's own creativity to create a sense of general well being and fun. It will explain the benefits/release involved with the different performance styles in a low pressure setting, without having to perform, with classes offered individually or in groups
-
--Class Times and Locations section
-Allows the user to see what time slots are available for group and individual classes. The classes will all be held in the Community hall at different times and days, with different focuses. 
-This section will be updated weekly, where time slots become available/new classes are offered/added or rehearsals are put in place for the end of term show.
-
--The Footer
-This includes links to relevant social media sites for 'Pure Drama for Tweens and Teens' including facebook, instagram, twitter and tiktok.
-The footer is valuable ot the user as it encourages them to keep connected via social media.
-
--Mission
-
--The Sign Up Page
- This page will allow the user to get signed up to the classes. The user will be able to specify whether they are interested in individua/group classes, mid-week or weekend classes, their chosen area of interest (acting/stand-up/improvisation/writing/emceeing). The user will be asked to submit their full name, email address, age and level of experience.
-
- -Features left to implement (Future Features)
-
- -Currently working with a videographer who, with express permission, will record and edit segments of classes as well as the end of terms performance and a showcase of this will be placed on the website.
- -Voiceovers of testimonials from satisfied students that will not play automatically once the website is opened as that may be disruptive and not user-friendly but can be played once the user selects to do so.
- -When Joanne meets the students and grows to understand their preferences/abilities and needs, the sign-up page will be expanded to garner more information from prospective students
- -A gallery page will be added displaying photos taken from launches, classes and performances
+ <p>
+ <ol>The intention is to work with a videographer who, with express permission, will record and edit the launch, segments of the classes and the end-of-term performance and a well-edited show reel summary will play on the landing page once available
+ -There will be an additional audio feature added wherein vox-pop recordings of student testimonials can be played by the user of the website in the 'Student Feedback Dection'. It will be well laid out, revealing the name and age of the student and the testimonials will be divided out by style of class. The voiceovers of the testimonials from students will not play automatically once the website is opened, as that may be disruptive and not user-friendly but can be played once the user selects to do so. This will be an interactive feature.
+ -Once the classes start and the facilitator meets the students and grows to understand their preferences/abilities and needs, the sign-up page will be expanded to garner more information from prospective students (e.g. maybe monologue preferences). Weekly polls will be added to get direct feedback from the studentsin relaiton to the classes
+ -A well-styled gallery page will be added, displaying still images taken from launches, classes and performances. This images will be date stamped and credited accordingly
+ </ol>
+ </p>
 
  TESTING
 
@@ -87,9 +122,18 @@ The footer is valuable ot the user as it encourages them to keep connected via s
 
  Mention how the project looks and works on different browsers and screen sizes...pc/laptop/mobile.
 
- I opened the website on my laptop and it worked accordingly
+ Manual Testing of the respsoniveness of the website:
+ 1. To different viewports
+  I opened the website on my phone and the responsive elements worked accordingly-viewport height, viewport weight and different photos used on differed sizes
+ On my Macbook pro:
+ On my Iphone 11:
+ On my Apple Watch:
 
- I opened the website on my phone and the responsive elements worked accordingly-viewport height, viewport weight and different photos used on differed sizes
+ Viewports tested online:
+
+ 2. To different browsers
+
+ I opened the website on my laptop and it worked accordingly
 
  Browsers: Safari, Google, Internet Explorer
 
@@ -97,7 +141,7 @@ The footer is valuable ot the user as it encourages them to keep connected via s
  I opened the website on Google and...
  I opened the website on Internet Explorer and...
 
-
+VALIDATOR TESTING:
 Interesting bugs and problems discovered whilst testing:
 
   Addressed:
