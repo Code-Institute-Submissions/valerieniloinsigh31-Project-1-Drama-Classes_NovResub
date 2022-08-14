@@ -2,31 +2,32 @@
 
 PURE DRAMA FOR TWEENS AND TEENS
 
-Provisional Introduction:
+<em>Provisional Introduction</em>
 
--What the project hopes to accomplish.
- The aim of the website is to advertise newly launched classes in Clonakilty. The website is in association with 'Pure Drama Limited', a newly establised company of the facilitator/website owner in question, Joanne Downey. Having graduated with an Honors degree in 'Drama and Theatre Studies' and an MFA in Playwriting, Joanne has launched her own company 'Pure Mule' with her husband, Michael Downey and the pair are launching classes in their native town of Clonakilty The website should successfully display what is on offer with the classes (content/format), describe who the facilitator/teacher is as well as the newly established company and what their relevant experience/qualifications are and describe the format of the end-of-term shows and what the students could aim to participate in. The content and location of the classes should be presented. With the design, it should be concisely outlined how the classes can be offered one-on-one or to groups, what times are available and what will be involved with the classes. There will be an interactive, responsive page also which allows the user of the website to input their details and preferences.
+<b>-What the project hopes to accomplish.</b>
+ <p>The aim of the website is to advertise newly launched performance-based classes for tweens and teens in Clonakilty. The website is in association with 'Pure Drama Limited', a newly establised company of the facilitator/website owner in question, Joanne Downey. Having graduated with an Honors degree in 'Drama and Theatre Studies' and an MFA in Playwriting, Joanne has launched her own company 'Pure Mule' with her husband, Michael Downey and the pair are launching classes in their native town of Clonakilty The website should successfully display what is on offer with the classes (content/format), describe who the facilitator/teacher is as well as the newly established company and what their relevant experience/qualifications are. The site should also indicate towards the format of the end-of-term shows and highlight how the cast/crew will be sourced from the classes but it is not mandatory for the people in the class to participate in the show. The content and location of the classes should be presented. With the design, it should be concisely outlined how the classes can be offered one-on-one or to groups, what times are available and what will be involved with the classes. There will be an interactive, responsive page also which allows the user of the website to input their details and preferences.</p>
 
--Who the project is targetting.
+<b>Who the project is targetting.</b>
 
-The project is targetting the parents of tweens and teens, as well as the tweens and teens in the locality who are looking to make better use of their spare time or to experiment with different styles of performance (comedy, stand up, improvisation, monologe, duologue, hsoting etc.) The classes are suitable for those who wish to perform in the end of term show, which will be open for the attendance of the general public but equally suitable to those who do not wish to perform at all or who simply want to attend on a casual basis/to gain confidence in their own lives and this should be conveyed in the website. Potentially, the classes could offer an alternative to locals who do not have an interest in the vibrant sports scene in Clonakilty and wish to have a different social outlet, so it should be evident in the website that a casual approach will be accepted.. Also suitable for those who wish to write material for others as opposed to performing themselves with sketch-writing and stand-up comedy classes which will be advertised on the website. As this will be the inaugural year of the project, with the founder and facilitator, Joanne Downey having recently completed her MFA ns relocated back to her native town, and with the precarious nature of Irish Arts funding (particularly in rural Ireland), it will be important to outline the support via sponsorship of local businesses as well as the support of the local council with the rehearsal/performance space.
+<p>The project is targetting the parents of tweens and teens, as well as the tweens and teens in the locality who are looking to make better use of their spare time or to experiment with different styles of performance (comedy, stand up, improvisation, monologe, duologue, hsoting etc.) The classes are suitable for those who wish to perform in the end of term show, which will be open for the attendance of the general public but equally suitable to those who do not wish to perform at all or who simply want to attend on a casual basis/to gain confidence in their own lives and this should be conveyed in the website. Potentially, the classes could offer an alternative to locals who do not have an interest in the vibrant sports scene in Clonakilty and wish to have a different social outlet, so it should be evident in the website that a casual approach will be accepted.. Also suitable for those who wish to write material for others as opposed to performing themselves with sketch-writing and stand-up comedy classes which will be advertised on the website. As this will be the inaugural year of the project, with the founder and facilitator, Joanne Downey having recently completed her MFA ns relocated back to her native town, and with the precarious nature of Irish Arts funding (particularly in rural Ireland), it will be important to outline the support via sponsorship of local businesses as well as the support of the local council with the rehearsal/performance space.</p>
 
--How it will be useful to a target audience.
-The website will be useful in conveying the potential outcomes/results and rewards of joining the classes (with a description of the show and the scoial aspect) and what is possible to people of the town. The landing page will have some key information about the target group, the location of the classes, the times and content of the classes. It will describe the suggested format of the classes, which is adaptable. There will be a navigation section that leads to two other tabs (the Our Mission Page and the Sign-Up page). It will convey the tone of the website.
+<b>How it will be useful to a target audience.</b>
+<p>The website will be useful in conveying the potential outcomes/results and rewards of joining the classes (with a description of the show and the scoial aspect) and what is possible to people of the town. The landing page will have some key information about the target group, the location of the classes, the times and content of the classes. It will describe the suggested format of the classes, which is adaptable. There will be a navigation section that leads to two other tabs (the Our Mission Page and the Sign-Up page). It will convey the tone of the website.
 
 
 The 'Our Mission' tab will be very clear and descriptive about what the overall goal of the classes is and what the ethos of 'Pure Drama Limtied' is. It will also detail the background, experience and qualifications of the lead facilitator, Joanne Downey. This will be very informative to the target audience and the aim of this is to provide them with the conifdence in classes so that they trust them and join. Additionally the 'Ou Mission' page will offer a more general explanation for the content of the five class types, with modern-day celebrities referenced so the target audience can form an idea of what the overall goal of the classes is. 
 
-The Sign Up page, will allow the user to input their details and to declare their preferences in terms of the format (individual/group) and tpye of class that they are interested in. This information will feed into a database and be very useful to Joanne. Information that will be gathered includes area of name, email, format of class and type of class. Radio buttons and checkboxes will be used for this effect as well. An omnipresent loading animation has been inserted that has been adjusted to fit in with the color scheme of the website.  Though nothing is loading,t he idea with this being present is that it will inspire people to be active in filling out the form and promote action. 
+The Sign Up page, will allow the user to input their details and to declare their preferences in terms of the format (individual/group) and tpye of class that they are interested in. This information will feed into a database and be very useful to Joanne. Information that will be gathered includes area of name, email, format of class and type of class. Radio buttons and checkboxes will be used for this effect as well. An omnipresent loading animation has been inserted that has been adjusted to fit in with the color scheme of the website.  Though nothing is loading,t he idea with this being present is that it will inspire people to be active in filling out the form and promote action. </p>
 
-FEATURES:
-Explanation of the value that the feature provides for the user: Landing page, intro video, animation, external links, gallery, sign up page
+<b>FEATURES:</b>
+<p>Explanation of the value that the feature provides for the user: Landing page, intro video, animation, external links, gallery, sign up page
 Who website is for: Tweens, teens and their parents/families
-What they want to achieve: End of term performance, build confidence, write for end of term performance
+What they want to achieve: End of term performance, build confidence, write for end of term performance.</p>
 
-EXISTING FEATURES
+<b>EXISTING FEATURES</b>
+<p>
 -Navigation Bar
-This is featured on all three tabs for consistency and so the user can easily navigate from tab to tab without reverting back to the previous page. The fully responsive navigation bar includes links to the Landing Page denoted as 'Welcome', the mission page denoted as Our Mission and the Sign-Up page, denoted as "Sign-Up" form.
+This is featured on all three tabs for consistency and so the user can easily navigate from tab to tab without reverting back to the previous page. The fully responsive navigation bar includes links to the Landing Page denoted as 'Welcome', the mission page denoted as Our Mission and the Sign-Up page, denoted as "Sign-Up" form.</p>
 
 PURE DRAMA FOR TWEENS AND TEENS
 
@@ -47,7 +48,6 @@ This includes links to relevant social media sites for 'Pure Drama for Tweens an
 The footer is valuable ot the user as it encourages them to keep connected via social media.
 
 -Mission
-
 
 -The Sign Up Page
  This page will allow the user to get signed up to the classes. The user will be able to specify whether they are interested in individua/group classes, mid-week or weekend classes, their chosen area of interest (acting/stand-up/improvisation/writing/emceeing). The user will be asked to submit their full name, email address, age and level of experience.
@@ -82,6 +82,54 @@ Interesting bugs and problems discovered whilst testing:
   Unaddressed bugs and problems: Initially I thought one button could be used to submit all selected answers but it only worked to subnmit the feedback
 
   Validator Testing:
+
+  Responsiveness testing:
+  Using developer tools, Jigsaw screenshot:
+                            Iphone 11  Macbookpro  Notes
+  Site is responsive>=700px   n/a      Good         
+  Site is responsive<=700px.  Good     n/a.   When does screen get too small
+  Links/URLs:                 Good     Good
+  Images work:                Good     Good
+
+  Test on different browsers:
+  Google, Safari, Internet Explorer and Firefox
+
+  Browser compatibility:
+                          Chrome Firefox. Safari IE  Notes:
+  Intended appearance:
+  Intended responsiveness:
+
+Bugs:
+
+What was the problem?:
+What was the solution?:
+
+LIGHTHOUSE: Accessed via DevTools
+Insert screenshot of outcome
+
+Manula testing of all features in the APP:
+
+Feature. Action.     Effect
+WELCOME
+Video of applause
+Navigation bar
+Social links
+Map of Clonakilty
+
+MISSION
+
+
+SIGN-UP
+Insert details
+Radio buttons
+Checkboxes
+Feedback section
+Submit button
+Contact widget
+
+
+
+
 
   HTML: 
 
