@@ -22,12 +22,34 @@ The Sign Up page, will allow the user to input their details and to declare thei
 <b>FEATURES:</b>
 <p>Explanation of the value that the feature provides for the user: Landing page, intro video, animation, external links, gallery, sign up page
 Who website is for: Tweens, teens and their parents/families
-What they want to achieve: End of term performance, build confidence, write for end of term performance.</p>
+What they want to achieve: </p>
 
 <b>EXISTING FEATURES</b>
 <p>
--Navigation Bar
-This is featured on all three tabs for consistency and so the user can easily navigate from tab to tab without reverting back to the previous page. The fully responsive navigation bar includes links to the Landing Page denoted as 'Welcome', the mission page denoted as Our Mission and the Sign-Up page, denoted as "Sign-Up" form.</p>
+<ol>
+<li>
+<b>Feature: Navigation Bar</b>
+The value the feature provides: Enables the user to navigate from page to page easily.
+What it aims to achieve: This feature will reduce the level of scrolling and divide the website into three different tabs.This is featured on all three tabs for consistency and so the user can easily navigate from tab to tab without reverting back to the previous page. The fully responsive navigation bar includes links to the Landing Page denoted as 'Welcome', the mission page denoted as Our Mission and the Sign-Up page, denoted as "Sign-Up" form.
+</li>
+<li>
+<b>Feature: </b>
+The value the feature provides:
+What it aims to achieve:
+</li>
+<li>
+Feature:
+The value the feature provides:
+What it aims to achieve:
+</li>
+<li>
+Feature:
+The value the feature provides:
+What it aims to achieve:
+</li>
+</ol>
+Feature:
+</p>
 
 PURE DRAMA FOR TWEENS AND TEENS
 
