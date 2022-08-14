@@ -176,8 +176,10 @@ What was the solution?: Inserted a table and updated alignment
 4. What was the problem?: How many submit buttons to include on the sign-up form
 What was the solution?:
 
-LIGHTHOUSE: Accessed via DevTools
-Insert screenshot of outcome:
+<h2>LIGHTHOUSE</h2>
+Accessed via DevTools
+
+![alt text](/assets/images/LIGHTHOUSE%20validation.png)
 
 
 Manual testing of all features in the APP:
@@ -202,14 +204,84 @@ Contact widget
 
 <h3>The testing of HTML was completed on the W3C Validator.</h3>
 
+![alt text](/assets/images/W3C%20Jigsaw%20Validation.png);
+
+In order to test each page, I copied the HTML code directly from GITHUB and pasted it into the direct input window on the validator, per the below:
+
+![alt text](/assets/images/W3C%20HTML%20Direct%20input%20of%20code.png);
+
+
+
 Per the screengrabs included, I manually pasted in the HTML of each individual page and amended each of the errors as I progressed. Please see the result for each page below, including my responses to each issue:
 
+
+
 <b>HTML:</b>
-  1. Welcome Landing page
-  2. Our Mission page
-  3. Sign-Up page
+  1. Welcome Landing page errors:
+  <ol>
+  <li>
+  The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text](/assets/images/HTML%20Error%201.png);
+
+  Description of error:
+  Response to error:
+
+  </li>
+  <li>
+  The second error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text](/assets/images/HTML%20Error%201.png);
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The third error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text](/assets/images/HTML%20Error%201.png);
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The forth error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text](/assets/images/HTML%20Error%201.png);
+
+  Description of error:
+  Response to error:
+  </li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  </ol>
+  2. Our Mission page errors:
+  <ol>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  </ol>
+  3. Sign-Up page errors:
+  <ol>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  </ol>
   
   <b>CSS:</b>
+
+  <h3>The testing of CSS was completed on the JIGSAW Validator.</h3>
+
+ Please see the W3C igsaw validator below:
+
 
   1. Welcome Landing page
   2. Our Mission page
@@ -217,7 +289,12 @@ Per the screengrabs included, I manually pasted in the HTML of each individual p
  
   <b>UNFIXED BUGS</b>
    
-   Mention unfixed bugs and why they were not fixed. Include shortcomings of the frameworks and technologies used. Don't use lack of time as an excuse.
+   Mention unfixed bugs and why they were not fixed. Include shortcomings of the frameworks and technologies used. 
+
+   Difficulty with responsiveness (Flex-box vs CSS grid)
+   layout and positioning
+   adobe mark on video
+   would have preferred to use own original submission page as opposed to Code Institutes generic page-was unsure of how to generate my wown
 
    <b>DEPLOYMENT PROCESS</b>
 
