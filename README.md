@@ -375,8 +375,209 @@ I considered the five planes of user experience when designing my website: Strat
 
 Please see how I considered these below:
 
-Strategy Plane: I needed to consider viability and usability as well as my limited resources and skillset considering this would be my first ever project
-Scope Plane:
-Structure Plane:
-Skeleton Plane:
-Surface Plane:
+1. Strategy Plane: I needed to consider viability and usability as well as my limited resources and skillset considering this would be my first ever project. For it's purpose, the content is culturally appropriate and the content can be tracked in an intuitive way. The business goal of the website is to increase the awarness of the classes and to build a positive reportuation. Tech condi=sideration-website must appeal to tweens and teens and appeal ot their interest in facebook/twitter/youtube and instagram. The goal with the feedback form is to assist in the development of the website to make it more appealing to the user. It's a B2C website. Accordingly, I have made an affort to make the website catchy and appealing, with use of large images.
+
+  In the research phases I decided this website would be worth doing as I would be informed.
+What value can be provided to the demographic of tweens and teens and their parents
+  
+  
+  Viability and Feasibility (have skills, resources, time to implement features) versus Importance (business goals and user needs). Deciding on what to keep and not to keep.
+
+  List and rate opportunities 1-5 in terms of dimensions importance versus viability and feasability
+  Broken into opportunities and problems to be solved
+
+  -Create online presence
+  -Make group known in the town and beyond
+  -Showcase experience and qualifications
+  -Detail sponsorships and present payment plan opportunity
+
+  (sum of importance/average viability*number items
+  )
+
+  Competitive-offering wide variety of versatile classes, over several days with option to learn in groups or alone, feedback form and payment plans available-affordable.
+
+2. Scope Plane:
+
+What features of business/user needs needed
+Agile approach-small bitesze increments of development
+Minimal documentation-features simpl and schedule controllable
+
+ new ideas for future features-suture releases
+
+ sprint-duration of time committed to buidling something-rarely over one month
+
+ If scope is too big, not meet deadlines, release date, commitment-was worried about that
+
+ Avoid scope creep (adding random new features too late)
+ Don't want scope too small-unimpressive products
+
+ Requirements
+
+ What users need
+ What they actually need
+ What they don't know they need
+
+ Difference between imagining how something will be used and how it will actually be used
+
+ Brainstorm-explore-discuss
+
+ Requirement types
+
+ Content requirements
+
+ Mixed content used in our website-images, video
+
+ Requirement categories-types: Useful, Sellable, Buildable
+
+ Useful-yes website informs potential customrs
+ Sellable-
+
+ Objective-Functional-Non-functional-Business rules
+
+ Objective-what does user want to accomplish
+ Functional-What does user need to do to accomplish pbjective
+ Non-functional-contraints website has. Scaleable:as user base grows, can application handle gorwth in traffic
+
+ Business rules: What dynamic constraints do we have to meet?
+
+ Product is a virtual representation of business
+
+ User story-how user interacts with system
+
+3. Structure Plane:
+
+Organisation of functionality and content. Navigating through in a functional way.
+
+Categories of information-sections
+
+Info presentation and organisation-intuitive
+
+Interaction Design
+
+Structure and behavior of interactive systems
+
+Meaning for rleationships elements-content, information
+
+Functionality and interactivity
+
+Reduces risk of user error,makes user aware of state chnages
+
+-Site is consistent, predictable , learnable, visible and clear feedback (navigation bar and social links on every page)
+-Interactive features consistent in colouring
+-Scenario: Transitions, rollover, tool clips behave consistently
+- Consistency of voice-lablels and terms. Content and imagery, stable and consistent style
+
+Only different when enhances experience-e.g. pink submission buttons in 'Sign-Up' page
+
+-Intuitive, single -trial learning, sitck to conventions
+
+<b>Information Architecture</b>
+
+Creation of organisational and navigational schemas
+
+Principles of organisation
+
+-Information Architecture -Visual vocabulary 
+
+
+4. Skeleton Plane:
+
+Naviagtion design and interface design
+
+Design work-what form will application take
+How will users get around how we present content
+
+Give form to function
+Establish value in users mind
+Lead user toward continuing experience
+Add value with each click
+Add positivity to overall experience with each interaction
+
+Only break from convetnion if you can improve on it
+
+Suite of visual conventions
+
+Give people what they need when they need it
+
+Data at rest (database-MySQL, MongoDB) Data in motion (manipulated-python-Django) Data as presented (user interface)
+
+Progressive disclosure-reveal information across space...navigation-different tabs used
+
+Visuall group information in order of important- Mission-Education and Qualifications-Class content
+
+E-Commerce site Hick-Hyman Law, too many options, the longer it takes for consumer to make a decision
+
+Navigation-how do you find
+
+browse, filters, search, pagination controls
+
+progressive disclosure-progress bars
+
+representational icons-font awesome 
+
+colour, icons and text differentiate naviagtion elements
+
+consistent-same across content 
+
+Metaphors:
+
+Useful in conveying info
+
+visual metaphors
+
+Good info design-invisible 
+
+Easy to navigate, relevant information, good information design
+
+too much information worse then no information 
+
+context and order matter
+
+hierarchy of importance
+
+referential information-alphabetical
+
+categorical when info is similar
+
+clsutered, similar, category of information
+
+Clean, minimal, effective
+
+Wireframes
+
+2D model of what finished product will be
+
+Simplified, stripped down version of 
+
+form, information, arrnagement
+
+starting point
+
+see balance of elements-sturcture-what gets included-how it's organised
+
+Have i left anything out, priority content noticed first 
+
+Wireframes allow us to revisit stratgey and goals
+
+Wireframes-do relationships work, does it make sense (labels, arrangement and navigation)
+
+5. Surface Plane:
+
+A visual language that provides information and context
+
+Provides colour, layout, fonts, images, order, sequence and the site's identity
+
+Provides economy- important elements eaisly recognised 
+
+Content-split
+
+Progressive disclosure as move through naviational elements
+
+Visual language-readability, legible, font contrast, consistent patterns
+
+Color contrast between foreground and background
+
+Contrast between fond...
+
+Patterns consistent
+
