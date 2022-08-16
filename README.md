@@ -225,7 +225,7 @@ Per the screengrabs included, I manually pasted in the HTML of each individual p
   The first error in the HTML code on the Welcome page was as follows:
 Screengrab of error:
 
-![alt text](/assets/images/HTML%20Error%201.png);
+![alt text](./assets/images/HTML_Error_1.png);
 
   Description of error:
   Response to error:
@@ -235,7 +235,7 @@ Screengrab of error:
   The second error in the HTML code on the Welcome page was as follows:
 Screengrab of error:
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_2.png);
 
   Description of error:
   Response to error:
@@ -244,7 +244,7 @@ Screengrab of error:
   The third error in the HTML code on the Welcome page was as follows:
 Screengrab of error:
 
-![alt text]():
+![alt text](./assets/images/HTML_Error_3.png):
 
   Description of error:
   Response to error:
@@ -253,15 +253,128 @@ Screengrab of error:
   The forth error in the HTML code on the Welcome page was as follows:
 Screengrab of error:
 
+![alt text](./assets/images/HTML_Error_4.png);
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The fifth error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
 ![alt text]();
 
   Description of error:
   Response to error:
   </li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>
+  The sixth error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The seventh error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The eigth error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The ninth error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The tenth error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The eleventh error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The twelfth error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The thirteenth error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The forteenth error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The fifteenth error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The sixteenth error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+  The seventeenth error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
   </ol>
   <h3>>2. Our Mission page errors:</h3>
   <ol>
