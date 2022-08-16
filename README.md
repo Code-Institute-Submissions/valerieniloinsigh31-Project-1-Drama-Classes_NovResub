@@ -378,14 +378,118 @@ Screengrab of error:
   </ol>
   <h3>>2. Our Mission page errors:</h3>
   <ol>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>
+    The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The first error in the HTML code on the Welcome page was as follows:
+Screengrab of error:
+
+![alt text]();
+
+  Description of error:
+  Response to error:
+  </li>
   </ol>
   <h3>3. Sign-Up page errors:</h3>
   <ol>
-  <li></li>
+   <li></li>
   <li></li>
   <li></li>
   <li></li>
