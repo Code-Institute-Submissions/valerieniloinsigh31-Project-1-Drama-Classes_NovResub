@@ -359,6 +359,24 @@ Code inspired by other repositaries and tutorials:
 
 User Experience:
 
+Brainstorm: 
+
+I brainstormed this idea by thinking about what type of website would be ideal for the goal that I have in mind: A minimum viable product that is well done and doesn't negate from the website due to lack of Javascript etc. I decided to go with a theme that I knew would work well from looking at the lectures (the first portfolio project/Love Running etc) As I am a Drama graduate who has taught a variety of performance-based classes at different venues, I felt that this would be suitable as my first project as I had the required expertise needed to disclose the information needed and knew that the theme was entertaining enough in itself.
+
+I brainstormed the shape of the website by using Balsimiq which was made readily available to students of the Code institute. Please see screengrabs of Balsimiq below:
+
+BALSIMIQ BRAINSTORM:
+
 For this first project, which is heavily focussed on design, I wanted to create a solid minimum viable product as opposed to being overly ambitious and adding too much and making everything messy. I wanted to have clear features that were easy to navigate and fulfilled the function that they were there for. 
 
-I beleive that the wbesite is very user friendly, it is respeonsive and interactive, clearly laid out and accesible as it contains alts and aria-labels for screen readers.
+I beleive that the wEBsite is very user friendly, it is respeonsive and interactive, clearly laid out and accesible as it contains alts and aria-labels for screen readers.
+
+I considered the five planes of user experience when designing my website: Strategy Plane, Scope Plane, Structure Plane, Skeleton Plane and the Surface pLANE.
+
+Please see how I considered these below:
+
+Strategy Plane: I needed to consider viability and usability as well as my limited resources and skillset considering this would be my first ever project
+Scope Plane:
+Structure Plane:
+Skeleton Plane:
+Surface Plane:
