@@ -38,6 +38,16 @@ nav a:hover {
 
 /*Landing page*/
 
+/*Title*/
+
+.title {
+  /*Adding an animation to the title, using keyframe*/
+  display: inline-block;
+  margin-left: 40%;
+  animation: tada; 
+  animation-duration: 5s;
+}
+
 /*friends background image*/
 
 #friends-image {
