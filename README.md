@@ -22,12 +22,18 @@
 <p>The third tab, the <em>Sign-Up Page</em>, will allow the user to input their details and to declare their preferences in terms of the format (individual/group) and type of class that they are interested in. This information will feed into a database and be very useful to Joanne in terms of what she should offer. Information that will be gathered includes name, email, format of class and type of class. Radio buttons and checkboxes will be used for this effect as well. An omnipresent loading animation has been inserted that has been adjusted to fit in with the color scheme of the website.  Though nothing is loading, the idea with this being present is that it will inspire people to be active in filling out the form and to promote action. There is also a feedback box included so direct requests can be communciated to Pure Drama.</p>
 
 <h2><b>FEATURES:</b></h2>
-<p>There are a number of existing features included in the website that enhance the user experience. We also have ideas for innovative future features to add once the classes have started that will improve the overall user experience.</p>
+<p>There are a number of existing features included in the website that enhance the user experience. We also have ideas for innovative future features to add once the classes have started that will improve the overall user experience. Please see a list of the features below, as well as how they responded to testing.</p>
 
 <h3><b>EXISTING FEATURES</b></h3>
 <p>
 <h4>1. Welcome Landing Page:</h4>
 <ol>
+<li>
+<h5><b>Feature: Pure Drama title animation</b></h5>
+The value the feature provides: The keyframe animation that has been added to the 'Pure Drama' title highlights the importance of the title relative to the rest of the page
+what it aims to achieve: Sets the title apart and introduces 'Pure Drama' as the name, whilst also asserting an ambiance of fun and creativity
+Response to testing: As intended, the animation automatically plays once the page is opened. It doesn't just play once, it plays each time the 'Welcome Page' is reopened and continues for the expected duration of five seconds.
+</li>
 <li>
 <h5><b>Feature: Navigation Bar</b></h5>
 The value the feature provides: Enables the user to navigate from page to page easily.
@@ -74,7 +80,7 @@ What it aims to achieve: I did this as I want it to create a sense of momentum a
 </li>
 <li>
 Feature: Responsive picture that changes based on the browser.
-The value the feature provided: One image is presented on viewports with max-widths of 699px (e.g. an iphone), a different photo is shown on viewports over 700px (e.g. a laptop). If there is any issue with the brower, a separate image is also included as an alternative
+The value the feature provided: One image is presented on viewports with max-widths of 699px (e.g. an iphone), a different photo is shown on viewports over 700px (e.g. a laptop). If there is any issue with the brower, a separate image is also included as an alternative, this is the happy group image which is shown on the <em>Welcome Page</em>.
 What it aims to achieve: Present alternative photos that are more suited to different viewports (iphone versus laptop) and also offer an alternative image if there is any issue opening these pictures
 </li>
 <li>
@@ -85,7 +91,7 @@ What it aims to achieve: Present an interactive and clearly laid out section whe
 <li>
 Feature: Radio buttons for the type of class the user wants to participate in
 The value the feature provided: This will give the website facilitator vital information about the demand of the classes by type
-What it aims to achieve: The user can only select one of the three options 'Individual', 'Group' or both so that they don't accidentally sign up for group classes if they solely want individual classes or vice versa. It is also a 'required' feature, so the submit button will not function if an option is not selected
+What it aims to achieve: The user can only select one of the three options 'Individual', 'Group' or 'Both' so that they don't accidentally sign up for group classes if they solely want individual classes or vice versa. It is also a 'required' feature, so the submit button will not function if an option is not selected
 </li>
 <li>
 Feature: Checkboxes for the style of classes that the user wants to participate in
@@ -114,23 +120,23 @@ What it aims to achieve: A stylish and comfortable feature that requires action 
  <li>Once the classes start and the facilitator meets the students and grows to understand their preferences/abilities and needs, the sign-up page will be expanded to garner more information from prospective students (e.g. maybe monologue preferences).</li>
  <li> In the feedback section, weekly polls will be added to get direct feedback from the students in relaiton to the classes.</li>
  <li>A well-styled, responsive gallery page will be added, displaying still images taken from launches, classes and performances. This images will be date stamped and credited accordingly</li>
+ <li>As the classes progress, the students will have an integral role with the content available in the online presence and the various platforms. There are other social media outlets that may be more appealing to the target audience/demographic that may be added depending on the feedback of the students. These outlets include (but are not limited to) tiktok</li>
  </ol>
  </p>
 
  <h2>TESTING</h2>
 
- Purpose of this section is to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Go over all project's features and ensure they work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+ I have conducted enough testing to legitimately believe that the site works well, as outlined in the various types of testing below: Manual testing, Lighthouse testing using developer tools, viewing the website on different browsers both manually and online and validator testing using online validation websites W3C and Jigsaw. 
+ 
+  I have also manually tested all of the project's features and ensured that they operated as intended as listed above.
 
- I tested the website in a variety of ways to ensure full functionality. This included manual testing (e.g. testing each feature and ensuring that it could complete what it was in place to complete) Additionally, I interacted with developer tools and the lighthouse function to see the code/make updates and to test different viewports. I manually checked the viewports on my phone and laptop also to ensure that the website was fully responsive, as intended. 
+ I tested the website in a variety of ways to ensure full functionality. This included manual testing (e.g. testing each feature and ensuring that it could complete what it was in place to complete) Additionally, I interacted with developer tools and the lighthouse function to see the code/make updates and to test different viewports. I manually checked the viewports on my phone and laptop also to ensure that the website was fully responsive, as intended. I also tested the website on different viewports online.
 
-   I used different tool to perform the validation testing on the code, as outlined below. I used W3C to est HTML and W3C JIGSAW to test css.
+   I used different tools to perform the validation testing on the code, as outlined below. I used W3C to est HTML and W3C Jigsaw to test CSS.
 
- <h3>Manual Testing of the respsoniveness of the website:</h3>
+ <h3>Manual Testing of the responsiveness of the website:</h3>
  1. To different viewports
   I opened the website on my phone and the responsive elements worked accordingly-viewport height, viewport weight and different photos used on differed sizes:
- On my Macbook pro:
- On my Iphone 11:
- On my Apple Watch:
 
   Responsiveness testing:
   Using developer tools, Jigsaw screenshot:
@@ -142,6 +148,7 @@ What it aims to achieve: A stylish and comfortable feature that requires action 
 
 
  Viewports tested online:
+ What type of viewports, make a list
 
  2. To different browsers
 
@@ -154,16 +161,20 @@ What it aims to achieve: A stylish and comfortable feature that requires action 
   Intended appearance:
   Intended responsiveness:
 
- I opened the website on Safari and...
- I opened the website on Google and...
- I opened the website on Internet Explorer and...
-  I opened the website on Firefox and...
-
 VALIDATOR TESTING:
 Interesting bugs and problems discovered whilst testing:
 
-  Addressed:
-  Unaddressed bugs and problems: Initially I thought one button could be used to submit all selected answers but it only worked to subnmit the feedback
+  <h3>Addressed bugs and problems:</h3>
+  <li>
+  Sign-Up Page: Initially I thought one button could be used to submit all selected answers but it only worked to subnmit the feedback so I separate the sections into different forms.
+  </li> 
+  <li>
+  Please see a list of the HTML errors below, with my response to the issues included.
+  </li>
+  <h3>Unaddressed bugs and problems"</h3>
+  <li>
+  Sign-Up Page: One unaddressed issue that I was unsure about how to resolve is that for the checkboxes class style section, it is the intention that the user can select as many classtypes as thet want. However, once the submission page is opened upon submission, only one answer is revealed.
+  </li>
 
 
 Bugs:
