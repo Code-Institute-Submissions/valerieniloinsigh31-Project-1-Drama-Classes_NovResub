@@ -305,91 +305,91 @@ Per the screengrabs included, I manually pasted in the HTML of each individual p
 ![alt text](./assets/images/HTML_Error_9.png)
 
   <p>Description of error: Iframe width is not acceptable in a % format</p>
-  <p>Response to error: Delete % but applied flexbox instead to retain responsive nature of the map to different viewports</p>
+  <p>Response to error: Delete % but applied flexbox instead to retain responsive nature of the map to different viewports. Researched and extracted coding from 'stackoverflow.com', having learned about flex from Slack threads. Inserted general flex code in CSS to be applied to various images where needed throughout website</p>
   </li>
   <li>
-  The tenth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The tenth error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_10.png)
 
-  Description of error:
-  Response to error:
+  <p>>Description of error: The frameborder attibute in iframe code is obsolete.</p>
+  <p>Response to error: Deleted this attribute entirely as applied flex instead</p>
   </li>
   <li>
-  The eleventh error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The eleventh error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_11.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: The scrolling attribute in iframe code is obsolete.</p>
+  <p>Response to error: Deleted this attribute entirely as applied flex instead</p>
   </li>
   <li>
-  The twelfth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The twelfth error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_12.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: The marginheight attribute in iframe code is obsolete.</p>
+   <p>Response to error: Deleted this attribute entirely as applied flex instead</p>
   </li>
   <li>
-  The thirteenth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The thirteenth error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_13.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: The marginwidth attribute in iframe code is obsolete.</p>
+  <p>Response to error: Deleted this attribute entirely as applied flex instead</p>
   </li>
   <li>
-  The forteenth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The forteenth error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_14.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Text not allowed in iframe in this context</p>
+  <p>Response to error: Deleted accordingly, had been deleted when updated to flex coding</p>
   </li>
   <li>
-  The fifteenth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The fifteenth error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_15.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Text not allowed in iframe in this context</p>
+  <p>Response to error:As per error 14, deleted accordingly, had been deleted when updated to flex coding</p>
   </li>
   <li>
-  The sixteenth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The sixteenth error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_16.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Text not allowed in iframe in this context</p>
+  <p>Response to error: As per error 14&15, deleted accordingly, had been deleted when updated to flex coding</p>
   </li>
   <li>
-  The seventeenth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The seventeenth error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_17.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Text not allowed in iframe in this context</p>
+  <p>Response to error:As per error 14,15&16, deleted accordingly, had been deleted when updated to flex coding</p>
   </li>
   </ol>
   <h3>>2. Our Mission page errors:</h3>
   <ol>
   <li>
-    The first error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+    <p>The first error in the HTML code on the Welcome page was as follows:</p>
+    <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error2_Mission.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error:</p>
+  <p>Response to error:</p>
   </li>
   <li>
    The first error in the HTML code on the Welcome page was as follows:
