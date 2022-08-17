@@ -61,15 +61,15 @@ What it aims to achieve: Makes the website easy to navigate and lends a consiste
 The value the feature provides: Creates the same effect as discussed on Welcome landing page
 What it aims to achieve: Lends a consistency to each of the separate pages on the website and creates a link between all online platforms
 </li>
-<li>Feature: Animation on Joanne Downey's photograph
-The value the feature provides: It draws the user's attention to Joanne, who is an integral element of 'Pure Drama'. As the founder and key facilitator, the success of the company relies on the reliability, quality of work and skillset of Joanne 
-What it aims to achieve: As this page is the most informative, laden in information, the animation provides light relief and is aesthetically engaging. It also draws attention to Joanne Downey
+<li>Feature: Animation on Joanne Downey's photograph. Using keyframes and the 'rubberBand' animation from 'Animate.css', I added an eye-catching animation to Joanne Downey's photograph that causes the image to stretech and retract like a rubberband for a period of five seconds
+The value the feature provides: It draws the user's attention to Joanne, who has an integral role in the success of 'Pure Drama'. As the founder and key facilitator, the success of the company relies on the reliability, quality of work and skillset of Joanne so the section detailing her experience and qualifications is particularly important
+What it aims to achieve: As this page is the most informative sections, with this particualr section laden in information, the animation provides light relief and is aesthetically engaging. It also draws attention to Joanne Downey
 </li>
 <h5><b>3. Sign-Up Page</b></h5>
 <ol>
 <li>
 Feature: Loading spinner
-The value the feature provides: Though this animation is usually used to signify loading, I added it as an omnipresent feature on the Sign-Up page that is not connected with loading. 
+The value the feature provides: Though this animation is usually used to signify loading, I added it as an omnipresent feature on the Sign-Up page that is not connected with loading but supposed to provoke a feeling of momentum. I have increased the sizes of the individual dots and updated the color to match the design of the page also
 What it aims to achieve: I did this as I want it to create a sense of momentum and provoke action from the user of the website, who is supposed to be inspired to fill out the 'Sign-Up' form and submit feedback
 </li>
 <li>

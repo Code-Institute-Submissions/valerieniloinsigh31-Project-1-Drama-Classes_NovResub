@@ -55,6 +55,7 @@ nav a:hover {
     width: 100%;
     background: url("../images/Happy_group_of_friends_on_a_wall.jpeg") no-repeat center center;
     border:#6D10FF solid 2px;
+    background-color:#6D10FF;
 }
 
 /*Pure Drama intro*/
@@ -326,8 +327,7 @@ footer {
 
   textarea:focus {
     background: pink;
-  }
- 
+  } 
 
 
     /*Contact details table*/
