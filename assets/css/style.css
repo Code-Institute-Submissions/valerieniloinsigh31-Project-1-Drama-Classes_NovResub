@@ -1,8 +1,9 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Oswald', sans-serif;
+    font-family: "Verdana", sans-serif;
     background-color: #0000ff00;
+    color:#fff;
 }
 
 /*Navigational headings*/
@@ -87,7 +88,7 @@ p {
 /*class times*/
 
 #class-times {
-    background-image: url('../images/Empty\ auditorium.avif');
+    background-image: url("../images/Empty_auditorium.avif");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -166,9 +167,9 @@ footer {
 }
 
 #mission-image {
-    height: 600px;
+    height: 60git uvh;
     width:100%;
-    background: url(/assets/images/mission.avif) no-repeat center center;
+    background: url(../images/mission.avif) no-repeat center center;
 }
 
 /*Joanne Downey section*/
