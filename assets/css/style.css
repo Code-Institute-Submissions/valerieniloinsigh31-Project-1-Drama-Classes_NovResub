@@ -152,6 +152,12 @@ footer {
     color:white;
 }
 
+#mission-image {
+  height: 60vh;
+  width:100%;
+  background: url("../images/mission.avif") no-repeat center center;
+}
+
 /*Joanne section*/
 
 .Joanne {
@@ -164,12 +170,6 @@ footer {
 .Classes {
     background-color:#6D10FF;
     color:white;
-}
-
-#mission-image {
-    height: 60git uvh;
-    width:100%;
-    background: url(../images/mission.avif) no-repeat center center;
 }
 
 /*Joanne Downey section*/

@@ -32,27 +32,31 @@
 <h5><b>Feature: Pure Drama title animation</b></h5>
 The value the feature provides: The keyframe animation that has been added to the 'Pure Drama' title highlights the importance of the title relative to the rest of the page
 what it aims to achieve: Sets the title apart and introduces 'Pure Drama' as the name, whilst also asserting an ambiance of fun and creativity
-Response to testing: As intended, the animation automatically plays once the page is opened. It doesn't just play once, it plays each time the 'Welcome Page' is reopened and continues for the expected duration of five seconds.
+Response to testing: As intended, the 'tada' animation automatically plays once the page is opened. It doesn't just play once, it plays each time the 'Welcome Page' is reopened and continues for the expected duration of five seconds.
 </li>
 <li>
 <h5><b>Feature: Navigation Bar</b></h5>
 The value the feature provides: Enables the user to navigate from page to page easily.
-What it aims to achieve: This feature will reduce the level of scrolling and divide the website into three different tabs.This is featured on all three tabs for consistency and also to ensure that the user can easily navigate from tab to tab without reverting back to the previous page. The fully responsive navigation bar includes links to the Landing Page denoted as "Welcome", the mission page denoted as "Our Mission" and the sign-up page, denoted as "Sign-Up". Once hovered over, each of the links becomes highlighted in white.
+What it aims to achieve: This feature will reduce the level of scrolling and divide the website into three different tabs.This is featured on all three tabs for consistency and also to ensure that the user can easily navigate from tab to tab without reverting back to the previous page. The fully responsive navigation bar includes links to the Landing Page denoted as "Welcome", the mission page denoted as "Our Mission" and the sign-up page, denoted as "Sign-Up". 
+Response testing: As intended, once hovered over, each of the navigational links becomes highlighted in white and once a page is clicked, it correctly bring us to the selected page.
 </li>
 <li>
 <h5><b>Feature: Muted video of applause that autoplays when scrolled over</b></h5>
 The value the feature provides: Makes the page more animated, highlights the performance/audience element of the classes, adds to the welcoming atmosphere of the page and creates a sense of energy. 
 What it aims to achieve: The user does not have to do anything aside from scroll over the video for it to play automatically. It is also muted to avoid disruption as the audio of the video might be uncomfrtable/unwanted for the user if they are in the library or a quiet area for example or listening to music. it aims to create a welcoming and energetic effect.
+Response to testing: The video correctly autoplays once the screen scrolls onto it. It pauses and recommences playing if scrolled over and back until the ten seconds plays out in full. As intended, it does not play on loop but stops playing after ten seconds. As intended, if the user navigates to a separate tab and back onto the welcome page, the video resets and plays automatically again from the start once scrolled over. As intended, it is muted and plays in silence to avoid disruption.
 </li>
 <li>
 <h5><b>Feature: Iframe map of Clonakilty</b></h5>
 The value the feature provides: Provides the user with an idea of where the classes are located
 What it aims to achieve: Creates a visual of the location of the classes, so even if the user is not familiar with the town, they can get a general idea of whether the classes are within a commutable distance of their location
+Response to testing: As intended, a large map of the relevant town of Clonakilty is displayed on the page, without any interaction required from the user, taking up 100% of the width of the page. The map is highly functional and interactive. Different areas of the twon can be selected and information is displayed about the address, directions and various online reviews. The zoom in/out function is fully functional and if the user desires directons to a certain place, the directions button can be selected and this opens on a separate page in Google maps with the address of the selecetd location automatically input.
 </li>
 <li>
 <h5><b>Feature: Social links that include hyperlinks to the social media that open in a separate tab</b></h5>
 The value the feature provides: Though these are generic links currently, the idea is that the personalised facebook, instagram, youtube and twitter pages related to the 'Pure Drama' company will open in separate tabs once these links are selected. This will cause a strong link between the website and all alternative forms of online presence. The facebook, instagram, twitter and youtube will showcase the amount of public support, with the youtube page showing viewcount, subscribers and comments on videos. The youtube page will be fully dedicated to long-form videos and demonstrations and will have a number of introductions to classes presented by Joanne Downey. The twitter account also will be linked, with daily status updates, interactions with other twitter users and an ability to see the twitter followers/what twitter user the page follows. Also, the facebook and instagram will be linked, with daily updates to photos, public comments of support and instagram follower and facebook followers/friends connected to the website.
 What it aims to achieve: Interconnects all online platforms. Creates momentum, as if there is a strong presence or following on one platform, it is likely to positively affect the other platforms/inspire people to join the classes/grow people's confidence in the quality of the programme. It also increases the feeling of accessibility as 'Pure Drama' can be communicated with on any of these platforms. It increases the target audience exponentially as the scope of these platforms considered together is extremely expansive. There will be global appeal and may lead to offering online classes in future.
+Response to testing: As intended, once the icon is selected, the relevant and correct webpage is opened in a separate tab
 </li>
 </ol>
 <h4>2. Our Mission Page</h4>
@@ -61,37 +65,44 @@ What it aims to achieve: Interconnects all online platforms. Creates momentum, a
 <h5><b>Feature: Navigation tab</b></h5>
 The value the feature provides: Contains the same functionality as discussed on the 'Welcome-Landing' page
 What it aims to achieve: Makes the website easy to navigate and lends a consistency to each of the separate pages on the website
+Response to testing: As per <em>Welcome Page</em>, this is fully functional with the hover effect fully and navigating to the selected page features operating as intended.
 </li>
 <li>
 <h5><b>Feature: Social Links</b></h5>
 The value the feature provides: Creates the same effect as discussed on Welcome landing page
 What it aims to achieve: Lends a consistency to each of the separate pages on the website and creates a link between all online platforms
+Response to testing: As per the <em>Welcome Page</em>, the links are fully functional, opening in a separate tab onto the specified webpage, as intended.
 </li>
 <li>Feature: Animation on Joanne Downey's photograph. Using keyframes and the 'rubberBand' animation from 'Animate.css', I added an eye-catching animation to Joanne Downey's photograph that causes the image to stretech and retract like a rubberband for a period of five seconds
 The value the feature provides: It draws the user's attention to Joanne, who has an integral role in the success of 'Pure Drama'. As the founder and key facilitator, the success of the company relies on the reliability, quality of work and skillset of Joanne so the section detailing her experience and qualifications is particularly important
 What it aims to achieve: As this page is the most informative sections, with this particualr section laden in information, the animation provides light relief and is aesthetically engaging. It also draws attention to Joanne Downey
+Response to testing: As intended, once Joanne Downey's image is scrolled over, the rubberBand animation automatically enacts for the specified duration of five seconds. As intended, this plays once per visit to the <em>Our Mission</em> page but will reset and replay once the tab is reopened.
 </li>
 <h5><b>3. Sign-Up Page</b></h5>
 <ol>
 <li>
 Feature: Loading spinner
-The value the feature provides: Though this animation is usually used to signify loading, I added it as an omnipresent feature on the Sign-Up page that is not connected with loading but supposed to provoke a feeling of momentum. I have increased the sizes of the individual dots and updated the color to match the design of the page also
-What it aims to achieve: I did this as I want it to create a sense of momentum and provoke action from the user of the website, who is supposed to be inspired to fill out the 'Sign-Up' form and submit feedback
+The value the feature provides: Though this animation is usually used to signify loading, I added a webkit spinner animation as an omnipresent feature on the Sign-Up page that is not connected with loading but supposed to provoke a feeling of momentum. I have increased the sizes of the individual dots and updated the color to match the design of the page also for design consistency
+What it aims to achieve: I did this, as I want it to create a sense of momentum and provoke action from the user of the website, who is supposed to be inspired to fill out the 'Sign-Up' form and submit feedback
+Response to testing: As intended, the spinner automatically plays once the page is opened and has an infinite duration. The design elements of the dots fit in with the rest of the content on the page as intended.
 </li>
 <li>
 Feature: Responsive picture that changes based on the browser.
 The value the feature provided: One image is presented on viewports with max-widths of 699px (e.g. an iphone), a different photo is shown on viewports over 700px (e.g. a laptop). If there is any issue with the brower, a separate image is also included as an alternative, this is the happy group image which is shown on the <em>Welcome Page</em>.
 What it aims to achieve: Present alternative photos that are more suited to different viewports (iphone versus laptop) and also offer an alternative image if there is any issue opening these pictures
+Response to testing: As intended, different images display once the viewport is decreased/increased over the 700px threshold.
 </li>
 <li>
 Feature: Field-sets to enter contact details
 The value the feature provided: Ability for the user to submit important personal information quickly and safely to the website facilitator
 What it aims to achieve: Present an interactive and clearly laid out section where the user can input their name and email address. There fields also change pink when the user clicks on them.
+Response to testing: As intended, once a field is selected it becomes highlighted in pink, signifying that it is active. Text can be input freely into each of the boxes and the submit button functions fully. Once submit is selected, a separate page is opened, confirming the information that has been submitted.
 </li>
 <li>
 Feature: Radio buttons for the type of class the user wants to participate in
 The value the feature provided: This will give the website facilitator vital information about the demand of the classes by type
 What it aims to achieve: The user can only select one of the three options 'Individual', 'Group' or 'Both' so that they don't accidentally sign up for group classes if they solely want individual classes or vice versa. It is also a 'required' feature, so the submit button will not function if an option is not selected
+Response to testing: As intended, it is not possible to select more than one of the three radio buttons at a time and selecting one is a required feature, the website will not allow you to submit this section without selecting an option. As intended, if the user attempts to submit the section without selecting one of the three options, a message apears, prompting them to select an option before submitting, saying "Please select one of these options"
 </li>
 <li>
 Feature: Checkboxes for the style of classes that the user wants to participate in
