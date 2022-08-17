@@ -383,7 +383,16 @@ Per the screengrabs included, I manually pasted in the HTML of each individual p
   <h3>>2. Our Mission page errors:</h3>
   <ol>
   <li>
-    <p>The first error in the HTML code on the Welcome page was as follows:</p>
+    <p>The first error in the HTML code on the Our Mission page was as follows:</p>
+    <p>Screengrab of error:</p>
+
+![alt text](./assets/images/HTML_Error1_Mission.png)
+
+  <p>Description of error:</p>
+  <p>Response to error:</p>
+  </li>
+  <li>
+   <p>The second error in the HTML code on the Our Mission page was as follows:</p>
     <p>Screengrab of error:</p>
 
 ![alt text](./assets/images/HTML_Error2_Mission.png)
@@ -392,100 +401,100 @@ Per the screengrabs included, I manually pasted in the HTML of each individual p
   <p>Response to error:</p>
   </li>
   <li>
-   The first error in the HTML code on the Welcome page was as follows:
+   <p>The third error in the HTML code on the Our Mission page was as follows:</p>
+    <p>Screengrab of error:</p>
+
+![alt text](./assets/images/HTML_Error3_Mission.png)
+
+  <p>Description of error:</p>
+  <p>Response to error:</p>
+  </li>
+  <li>
+   The forth error in the HTML code on the Our Mission page was as follows:
 Screengrab of error:
 
-![alt text]();
+![alt text](./assets/images/HTML_Error4_Mission.png);
 
   Description of error:
   Response to error:
   </li>
   <li>
-   The first error in the HTML code on the Welcome page was as follows:
+   The fifth error in the HTML code on the Our Mission page was as follows:
 Screengrab of error:
 
-![alt text]();
+![alt text](./assets/images/HTML_Error5_Mission.png);
 
   Description of error:
   Response to error:
   </li>
   <li>
-   The first error in the HTML code on the Welcome page was as follows:
+   The sixth error in the HTML code on the Our Mission page was as follows:
 Screengrab of error:
 
-![alt text]();
+![alt text](./assets/images/HTML_Error6_Mission.png);
 
   Description of error:
   Response to error:
   </li>
   <li>
-   The first error in the HTML code on the Welcome page was as follows:
+   The seventh error in the HTML code on the Our Mission page was as follows:
 Screengrab of error:
 
-![alt text]();
+![alt text](./assets/images/HTML_Error7_Mission.png);
 
   Description of error:
   Response to error:
   </li>
   <li>
-   The first error in the HTML code on the Welcome page was as follows:
+   The eigth error in the HTML code on the Our Mission page was as follows:
 Screengrab of error:
 
-![alt text]();
+![alt text](./assets/images/HTML_Error8_Mission.png)
 
   Description of error:
   Response to error:
   </li>
   <li>
-   The first error in the HTML code on the Welcome page was as follows:
+   The ninth error in the HTML code on the Our Mission page was as follows:
 Screengrab of error:
 
-![alt text]();
+![alt text](./assets/images/HTML_Error9_Mission.png)
 
   Description of error:
   Response to error:
   </li>
   <li>
-   The first error in the HTML code on the Welcome page was as follows:
+   The tenth error in the HTML code on the Welcome page was as follows:
 Screengrab of error:
 
-![alt text]();
+![alt text](./assets/images/HTML_Error10_Mission.png)
 
   Description of error:
   Response to error:
   </li>
   <li>
-   The first error in the HTML code on the Welcome page was as follows:
+   The eleventh error in the HTML code on the Welcome page was as follows:
 Screengrab of error:
 
-![alt text]();
+![alt text](./assets/images/HTML_Error11_Mission.png)
 
   Description of error:
   Response to error:
   </li>
   <li>
-   The first error in the HTML code on the Welcome page was as follows:
+   The twelfth error in the HTML code on the Our Mission page was as follows:
 Screengrab of error:
 
-![alt text]();
+![alt text](./assets/images/HTML_Error12_Mission.png)
 
   Description of error:
   Response to error:
   </li>
   <li>
-   The first error in the HTML code on the Welcome page was as follows:
+    The thirteenth error in the HTML code on the Our Mission page was as follows:
 Screengrab of error:
 
-![alt text]();
-
-  Description of error:
-  Response to error:
-  </li>
-  <li>
-   The first error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
-
-![alt text]();
+![alt text](./assets/images/HTML_Error13_Mission.png)
 
   Description of error:
   Response to error:
