@@ -160,12 +160,7 @@ footer {
     background: url(/assets/images/mission.avif) no-repeat center center;
 }
 
-/*Joanne Downey description section*/
-.joanne-downey-image {
-    height: 1000px;
-    width:100%;
-    background: url(/assets/images/Joanne\ Downey\ .avif) no-repeat center center;
-}
+/*Joanne Downey section*/
 
 .joanne-image {
     margin-left: 40%;
@@ -181,7 +176,7 @@ footer {
 
 /*Classes description section*/
 
-/*Classes images*/
+/*Classes images, used 'vw' and 'vh' metrics for responsivity*/
 .Classes {
     Display:inline-block
 }
@@ -218,8 +213,8 @@ footer {
 
 .spinner {
     margin: 100px auto;
-    width: 40px;
-    height: 40px;
+    width: 100px;
+    height: 100px;
     position: relative;
     text-align: center;
     
