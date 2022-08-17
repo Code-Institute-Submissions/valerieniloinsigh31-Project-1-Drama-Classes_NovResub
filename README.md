@@ -502,10 +502,105 @@ Screengrab of error:
   </ol>
   <h3>3. Sign-Up page errors:</h3>
   <ol>
-   <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+   <li>
+    The first error in the HTML code on the Sign-Up page was as follows:
+Screengrab of error:
+
+![alt text]()
+
+  Description of error:
+  Response to error:
+   </li>
+  <li>
+   The second error in the HTML code on the Sign-Up page was as follows:
+Screengrab of error:
+
+![alt text]()
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The third error in the HTML code on the Sign-Up page was as follows:
+Screengrab of error:
+
+![alt text]()
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The forth error in the HTML code on the Sign-Up page was as follows:
+Screengrab of error:
+
+![alt text]()
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The fifth error in the HTML code on the Sign-Up page was as follows:
+Screengrab of error:
+
+![alt text]()
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The sixth error in the HTML code on the Sign-Up page was as follows:
+Screengrab of error:
+
+![alt text]()
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The seventh error in the HTML code on the Sign-Up page was as follows:
+Screengrab of error:
+
+![alt text]()
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The eigth error in the HTML code on the Sign-Up page was as follows:
+Screengrab of error:
+
+![alt text]()
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The ninth error in the HTML code on the Sign-Up page was as follows:
+Screengrab of error:
+
+![alt text]()
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The tenth error in the HTML code on the Sign-Up page was as follows:
+Screengrab of error:
+
+![alt text]()
+
+  Description of error:
+  Response to error:
+  </li>
+  <li>
+   The eleventh error in the HTML code on the Sign-Up page was as follows:
+Screengrab of error:
+
+![alt text]()
+
+  Description of error:
+  Response to error:
+  </li>
   </ol>
   
   <b>CSS:</b>
