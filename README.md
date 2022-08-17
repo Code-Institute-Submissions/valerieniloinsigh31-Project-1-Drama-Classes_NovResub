@@ -120,7 +120,7 @@ Response to testing: As intended the box is highlighted in pink once selected. A
 Feature: Collapsible contact details widget
 The value the feature provides: An interactive widget feature wherein the user of the website can click on the dropdown 'Contact Pure Drama'summary to reveal the contact information, if they want to
 What it aims to achieve: A stylish and comfortable feature that requires action prior to revealing the contact details and that will hide automatically once the page reloads. This will also create a sense of confidence that only people who are interested in the classes/have read through the website will contact the facilitators as opposed to someone who is not serious and just wants to prank email the facilitators. It is also made half as opaque opaque than the rest of the page to signifiy the private, sensitive nature of the contact details
-Response to testing:
+Response to testing: As intended, the collapsible widgets expands to reveal the contact details once the triangle is clicked on. The information appears in an aligned format as planned, this is due to adding the table formatting in the code.
 </li>
 </ol>
 </p>
@@ -172,8 +172,8 @@ Response to testing:
 
   Browser compatibility:
                                Chrome       Firefox         Safari         IE        Notes:
-  Intended appearance:
-  Intended responsiveness:
+  Intended appearance:         Yes          Yes              Yes           Yes
+  Intended responsiveness:     Yes          Yes              Yes           Yes       
 
 VALIDATOR TESTING:
 Interesting bugs and problems discovered whilst testing:
@@ -210,7 +210,7 @@ I accessed the 'LIGHTHOUSE' trsting tool via Developer Tools. Please see a scree
 ![alt text](.//assets/images/LIGHTHOUSE_validation.png)
 
 
-Please see details on the manual testing of all of the features on the website (HTML first, followed by CSS)
+Please see details on the manual testing of all of the website (HTML first, followed by CSS)
 
 <h3>The testing of <b>HTML</b> was completed on the W3C Validator.</h3>
 
