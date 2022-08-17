@@ -225,87 +225,87 @@ Per the screengrabs included, I manually pasted in the HTML of each individual p
 <h2><b>HTML:</b></h2>
   <h3>1. Welcome Landing page errors:</h3>
   <ol>
-  <li>
-  The first error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <li> 
+  <p>The first error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text](./assets/images/HTML_Error_1.png);
+![alt text](./assets/images/HTML_Error_1.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: The word 'contant' in meta data is not an attribute that is allowed</p>
+  <p>Response to error: Updated typo of 'contant' to 'content'</p>
 
   </li>
   <li>
-  The second error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The second error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text](./assets/images/HTML_Error_2.png);
+![alt text](./assets/images/HTML_Error_2.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Element does not contain 'content'</p>
+  <p>Response to error: Updated type 'contant' to 'content'</p>
   </li>
   <li>
-  The third error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+<p>The third error in the HTML code on the Welcome page was as follows:</p>
+<p>Screengrab of error:</p>
 
-![alt text](./assets/images/HTML_Error_3.png):
+![alt text](./assets/images/HTML_Error_3.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Unneeded ending tag of 'meta' included</p>
+  <p>Response to error: Deleted extra meta tag</p>
   </li>
   <li>
-  The forth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The forth error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text](./assets/images/HTML_Error_4.png);
+![alt text](./assets/images/HTML_Error_4.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error:</p> Aria-label added to cover image id, possible misuse of aria-label
+  <p>Response to error: As it is visible text that labels an element, updated to 'aria-labelled by' instead</p>
   </li>
   <li>
-  The fifth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The fifth error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_5.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: First section lacks header</p>
+  <p>Response to error: Updated Pure Drama title to h2 header</p>
   </li>
   <li>
-  The sixth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+   <p>The sixth error in the HTML code on the Welcome page was as follows:</p>
+   <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_6.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: No p element in scope but a closing tag for p included</p>
+  <p>Response to error: Moved closing tag for p above hr where it is supposed to be</p>
   </li>
   <li>
-  The seventh error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The seventh error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_7.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: No heading included in introduction section, change section to div or else add heading</p>
+  <p>Response to error:Added a h2 heading of 'What's On?' to the section.</p>
   </li>
   <li>
-  The eigth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The eight error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_8.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error:No heading included in location section, change section to div or add h2-h6 heading</p>
+  <p>Response to error: Added h4 heading of 'But, where?'</p>
   </li>
   <li>
-  The ninth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The ninth error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]();
+![alt text](./assets/images/HTML_Error_9.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Iframe width is not acceptable in a % format</p>
+  <p>Response to error: Delete % but applied flexbox instead to retain responsive nature of the map to different viewports</p>
   </li>
   <li>
   The tenth error in the HTML code on the Welcome page was as follows:
