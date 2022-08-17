@@ -172,6 +172,11 @@ footer {
     border-radius:50%;
     height:20rem;
     width:20rem;
+    /*Adding an animation to the image, using keyframe*/
+    display: inline-block;
+    margin-left: 40%;
+    animation: rubberBand; 
+    animation-duration: 5s;
 }
 
 /*Classes description section*/
