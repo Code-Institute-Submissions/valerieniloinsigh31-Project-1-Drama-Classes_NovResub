@@ -108,21 +108,24 @@ Response to testing: As intended, it is not possible to select more than one of 
 Feature: Checkboxes for the style of classes that the user wants to participate in
 The value the feature provides: This will provide vital information to the website facilitator about the demand for classes and what classes are popular
 What it aims to achieve: The user can select as many styles of classes as they like and the information will be provided to the website facilitator
+Response to testing: As intended, the user can tick all of the boxes if they so choose. The submit button works accordingly but only one of the classes selected is listed on the separate confirmation of form submission page. In the design of the real website, as many classes as selected will appear on the confirmation of submission page
 </li>
 <li>
 Feature: A feedback box
 The value the feature provides: A box where the user can type in any requests that they have or any feedback that they have for the website facilitator. The smaller size of the box is supposed to indicate tha the nature of the feedback at this point is supposed to be concise as the classes have not started yet.
 What it aims to achieve: Provide a voice to potential students who would like to request something that is absent on the website/not offered. This feedback will go directly to the facilitator and is not anonymous so can be responded to also. The box becomes highlighted in pink when words are being input, to avoid the user accidentally typing into it and submitting when not intended 
+Response to testing: As intended the box is highlighted in pink once selected. As intended, the box can be dragged to expand by selecting the little triangle in the bottom right of the box and dragging it out. If more words are typed into the box than fit the small window, a scrollbar will appear allowing the user to continue typing and scrolling the box down. As intended once the 'Break a leg!' submit button is selected, a separate tab opens confirming submission and outlining the feedback data that has been input.
 </li>
 <li>
 Feature: Collapsible contact details widget
-The value the feature provides: An interactivw widget feature wherein the user of the website can click on the doropdown to reveal the contact information if they want to
-What it aims to achieve: A stylish and comfortable feature that requires action prior to revealing the contact details and that will hide automatically once the page reloads. This will also create a sense of confidence that only people who are interested in the classes/have read through the website will contact the facilitators as opposed to someone who is not serious and just wants to prank email the facilitators
+The value the feature provides: An interactive widget feature wherein the user of the website can click on the dropdown 'Contact Pure Drama'summary to reveal the contact information, if they want to
+What it aims to achieve: A stylish and comfortable feature that requires action prior to revealing the contact details and that will hide automatically once the page reloads. This will also create a sense of confidence that only people who are interested in the classes/have read through the website will contact the facilitators as opposed to someone who is not serious and just wants to prank email the facilitators. It is also made half as opaque opaque than the rest of the page to signifiy the private, sensitive nature of the contact details
+Response to testing:
 </li>
 </ol>
 </p>
 
-<h3>><b>FEATURES LEFT TO IMPLEMENT (Future Features)</b></h3>
+<h3><b>FEATURES LEFT TO IMPLEMENT (Future Features)</b></h3>
 
  <p>
  <ol>
@@ -139,7 +142,7 @@ What it aims to achieve: A stylish and comfortable feature that requires action 
 
  I have conducted enough testing to legitimately believe that the site works well, as outlined in the various types of testing below: Manual testing, Lighthouse testing using developer tools, viewing the website on different browsers both manually and online and validator testing using online validation websites W3C and Jigsaw. 
  
-  I have also manually tested all of the project's features and ensured that they operated as intended as listed above.
+  Also, as noted in the features section above, I have also manually tested all of the project's features and ensured that they operated as intended, outlining the response in each of the features sections.
 
  I tested the website in a variety of ways to ensure full functionality. This included manual testing (e.g. testing each feature and ensuring that it could complete what it was in place to complete) Additionally, I interacted with developer tools and the lighthouse function to see the code/make updates and to test different viewports. I manually checked the viewports on my phone and laptop also to ensure that the website was fully responsive, as intended. I also tested the website on different viewports online.
 
@@ -187,7 +190,6 @@ Interesting bugs and problems discovered whilst testing:
   Sign-Up Page: One unaddressed issue that I was unsure about how to resolve is that for the checkboxes class style section, it is the intention that the user can select as many classtypes as thet want. However, once the submission page is opened upon submission, only one answer is revealed.
   </li>
 
-
 Bugs:
 
 1. What was the problem?: The sections of the sign-up page only had one submit button for all sections and only one option was allowed to be selected for the radio-button and checkboxes sections combined.
@@ -199,46 +201,26 @@ What was the solution?: I applied relative sizing and inserted left-margin code
 3. What was the problem?: Aligning the information in the collapsible widget, the words were scattered and looked messy
 What was the solution?: I inserted a table and updated the alignment
 
-4. What was the problem?: The images woudl not load
+4. What was the problem?: The images would not load
 What was the solution?: The names of the filepaths contained spaces and had to be updated to contain underscores '_' between words
 
 <h2>LIGHTHOUSE</h2>
 I accessed the 'LIGHTHOUSE' trsting tool via Developer Tools. Please see a screengrab of the successful lIGHTHOUSE testing below. I believe all %s are adequate:
 
-![alt text](/assets/images/LIGHTHOUSE%20validation.png)
+![alt text](.//assets/images/LIGHTHOUSE_validation.png)
 
 
-Please see details on the manual testing of all of the features on the website:
-
-1. WELCOME
-Video of applause: Is muted as intended, autoplays once scrolled over. Has Adobe Stock stamp but deemed this to be acceptable due to it being a portfolio project as opposed to a professional website
-Navigation bar: each navigational word changes color once hovered over, as intended. Each button is fully functional, bringing the user to the intended tab
-Social links: Each social link included brings the user to the desired destination in a separate tab once pressed
-Map of Clonakilty: The map of the location of the classes is visally displayed using an iframe, as intended. The user can also interact with this iframe by scrolling around in the map
-
-2. MISSION
-Joanne Downey image animation:
-
-3. SIGN-UP
-Spinner: Successfully continues to load throughout the time on the page. Aligns with the color scheme of the page, as intended
-Responsive photo: As intended, the photo changes based on the size of the viewport it is being viewed on
-Insert details: User details fields successfully take information typed in and highlight in pink once entered into, to signifiy that they are active
-Radio buttons: Radio button class type section is fully operable as a form. Only one of the three buttons can be selected as a time, as intended. Also, it is 'required' so can not be submitted without secltion. Has a unique submission button
-Checkboxes: For class style selection. Fully operable as a separate form. Ad intended mroe than one style of class can be selected
-Feedback section: Full operable as the user can insert feedback/requests as they please. As intended, box highlighted in pink once selected to signifiy that it is being actively updated. Operates as a separate form with a unique submission button
-Contact widget: Noted collapsible widget that has a summary of Contact Pure Drama is successful in open once the triagle is pressed,as intended. The contact information is displayed in a structured, algined table format, as intended
+Please see details on the manual testing of all of the features on the website (HTML first, followed by CSS)
 
 <h3>The testing of <b>HTML</b> was completed on the W3C Validator.</h3>
 
-![alt text](/assets/images/W3C%20Jigsaw%20Validation.png);
+![alt text](./assets/images/W3C_HTML_Validation.png)
 
 In order to test each page, I copied the HTML code directly from GITHUB and pasted it into the direct input window on the validator, per the below:
 
-![alt text](/assets/images/W3C%20HTML%20Direct%20input%20of%20code.png);
-
+![alt text](./assets/images/W3C_HTML_Direct_input_of_code.png)
 
 Per the screengrabs included, I manually pasted in the HTML of each individual page and amended each of the errors as I progressed. Please see the results for each page below (divided out by error), including my responses to each issue:
-
 
 <h2><b>HTML:</b></h2>
   <h3>1. Welcome Landing page errors:</h3>

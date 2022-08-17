@@ -332,7 +332,18 @@ footer {
 
 
     /*Contact details table*/
-    .column {
-        text-align:bottom;
-        width:250px;
+    
+    .widget {
+      color:#6D10FF;
+      font-style: inherit;
+      opacity: 50%;
     }
+
+    .contact-table {
+      color:rgba(0, 0, 0, .6)
+    }
+
+    .column {
+      text-align:bottom;
+      width:250px;
+  }
