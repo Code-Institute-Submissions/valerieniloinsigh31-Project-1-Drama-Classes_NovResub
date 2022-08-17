@@ -38,12 +38,12 @@ nav a:hover {
 
 /*Landing page*/
 
-/*town-hall-image*/
+/*friends background image*/
 
-#town-hall-image {
-    height: 100rem;
-    width:100rem;
-    background: url(/assets/images/Town\ Hall.avif) no-repeat center center;
+#friends-image {
+    height: 40rem;
+    width: 100%;
+    background: url("../images/Happy_group_of_friends_on_a_wall.jpeg") no-repeat center center;
     border:#6D10FF solid 2px;
 }
 
