@@ -565,9 +565,13 @@ Screengrab of error:
   <p>Response to error: Moved all sections within form element where needed</p>
   </li>
   <li>
-
   </ol>
-  
+  <section>
+  <p>
+  The errors listed above were the errors that appeared in the first instance of the W3C HTML run for each page. I rectified these errors and reran the code and in some cases, new errors appeared and I rectified (or attempted to recitfy them also).
+  </p>
+  </section>
+
   <b>CSS:</b>
 
   <h3>The testing of CSS was completed on the JIGSAW Validator.</h3>
