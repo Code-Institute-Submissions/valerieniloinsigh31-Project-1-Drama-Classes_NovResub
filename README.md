@@ -491,25 +491,25 @@ Screengrab of error:
   <p>Response to error: Updated all image names to have '_' as opposed to spaces and redid all of the filepaths as an overall resolution to the images throughout the website</p>
   </li>
   <li>
-    The thirteenth error in the HTML code on the Our Mission page was as follows:
-Screengrab of error:
+  <p>The thirteenth error in the HTML code on the Our Mission page was as follows:</p>
+  <p>Screengrab of error:</p>
 
 ![alt text](./assets/images/HTML_Error13_Mission.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Article lacks heading</p>
+  <p>Response to error: Removed article element from Classes section as classes related to general theme of page, not standalone an independent. Kept as section, which includes a h2 heading of 'Classes'.</p>
   </li>
   </ol>
   <h3>3. Sign-Up page errors:</h3>
   <ol>
    <li>
-    The first error in the HTML code on the Sign-Up page was as follows:
-Screengrab of error:
+  <p>The first error in the HTML code on the Sign-Up page was as follows:</p>
+  <p>Screengrab of error:</p>
 
 ![alt text]()
 
-  Description of error:
-  Response to error:
+  <p>Description of error:</p>
+  <p>Response to error:</p>
    </li>
   <li>
    The second error in the HTML code on the Sign-Up page was as follows:
