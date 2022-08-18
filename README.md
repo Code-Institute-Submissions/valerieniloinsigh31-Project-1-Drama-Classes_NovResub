@@ -382,9 +382,9 @@ Per the screengrabs included, I manually pasted in the HTML of each individual p
   </ol>
 
 <p>
-No further error message: 
+One unaddressed bug left, the 'aria-label' attached to the background image: 
 
-![alt text]()
+![alt text](./assets/images/Welcome_one_error.png)
 </p>
   <h3>2. Our Mission page errors:</h3>
   <ol>
@@ -507,9 +507,9 @@ Screengrab of error:
   </li>
   </ol>
   <p>
-No further error message: 
+No further errors message: 
 
-![alt text]()
+![alt text](./assets/images/Mission_no_more_errors.png)
 </p>
   <h3>3. Sign-Up page errors:</h3>
   <ol>
