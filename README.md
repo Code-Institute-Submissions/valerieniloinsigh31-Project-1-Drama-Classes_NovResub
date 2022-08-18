@@ -641,45 +641,19 @@ Redid the validation testing and no errors:
 
    <p>As seen on the website, I drew inspiration from many different sources. i was inspired by the 'Love Running website' in the formatting of some of my features and used many different sources referenced in the tutorials for the images and content. Please see credits below for content and images/videos.:</p>
 
-   <b>CONTENT & MEDIA:</b>
-   -Icons throughout the websitewere taken fro: FontAwesome.com
-   -images were taken from:
-   -Video was taken from:
-   -Pure Drama title animation: animate.css
-   -Iframe map:
-   Our Mission:
-
-   Sign-Up Form:
-   -Validation of submission form from Code Institute webinars
-
-   2. Our Mission Page
-   The 'road ahead' picture was taken from ''
-   The Joanne Downey photo was taken from ''
-   The five photos in the classes section was taken from the following, respective places: ""
-   Group of Silhoutettes in the Sun:
-   Commedia dell'arte mask with rose:
-   Illuminated rows of red seats at the theatre:
-   Clapper, cinema tickets and popcorn:
-   Hand procuring a microphone in a circle of light:
-
-   3. Sign-Up Form
-   The loading spinner animation was extracted from:
-   The phots came from the following respective sources:
-   600px photo of ''
-   1000px photo of ''
-   Image alternative photo of ''
-   The icones beside titles, radiobuttons and checkboxes came from font awesome 
-
-   The idea for the collapsible summary widget came from the Code Institute tutorials
-
-Code inspired by Code institute tutorials:
-
--Navigation tab-tutorial
--iframe for applause video, site offers option to copy code directly
--The format of the class slots is taken from the 'Love Running' tutorial
--The Social links footer is taken from the 'Love Running' tutorial
--The Sign-Up form section was inspired by Love-Running
--The collapsible widget was inspired by ''
+   <b>CONTENT & MEDIA SOURCES:</b>
+   <ul>
+   <li>https://fontawesome.com/</li>
+   <li>https://color.adobe.com/create/color-wheel</li>
+   <li>https://mycolor.space/</li>
+   <li>https://animate.style/</li>
+   <li>https://pixabay.com/</li>
+   <li>https://unsplash.com/</li>
+   <li>https://fonts.google.com/</li>
+   <li>https://css-tricks.com/pseudo-class-selectors/</li>
+   <li>https://stackoverflow.com/</li>
+   <li>https://loading.io/css</li>
+   </ul>
 
 
 <h2>User Experience:</h2>
@@ -850,14 +824,14 @@ Per the tutorials, the wireframes help the develop to revisit the strategy and g
 
 5. Surface Plane:
 
-The surface plane is a visual language that provides information and context. It provides colour, layout, fonts, images, order, sequence and the site's identity
+The surface plane is a visual language that provides information and context. It provides colour, layout, fonts, images, order, sequence and the site's identity.
 
 Provides economy- important elements easily recognised. i dneoted this with italics and boldings as well as heading size and the structure of the secitons
 
-I considered progressive disclosure, and as the user moves through navigational elements, the welcome page leads to far more information on the 'Our Mission' page and then interaction is expected on the Sign-Up page
+I considered progressive disclosure, and as the user moves through navigational elements, the welcome page leads to far more information on the 'Our Mission' page and finally interaction is expected on the Sign-Up page.
 
-Visual language-readability, legible, font contrast, consistent patterns
+Color contrast between foreground and background. I used the colour combination of purple on white throughout as it was simple but stark and offered adequate contrast so as to ensure that all of the text was legible  and consistent.
 
-Color contrast between foreground and background. I used the colour combination of purple on white throughout as it was simple but stark and offered adequate contrast so as to ensure that all of the text was legible still.
+I used the font of Verdana as I researched fond online and it was recommended as highly legible no matter what font size.
 
 </p>
