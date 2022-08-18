@@ -652,7 +652,7 @@ Redid the validation testing and no errors:
    <li>https://fonts.google.com/</li>
    <li>https://css-tricks.com/pseudo-class-selectors/</li>
    <li>https://stackoverflow.com/</li>
-   <li>https://loading.io/css</li>
+   <li>https://tobiasahlin.com/spinkit/</li>
    </ul>
 
 
