@@ -299,6 +299,11 @@ footer {
 
   /*Sign-Up Form part 1*/
 
+  .sign-up-title {
+    color:#6D10FF;
+    font-style: italic;
+  }
+
   .form-section {
     background-color: #6D10FF;
     color:white;

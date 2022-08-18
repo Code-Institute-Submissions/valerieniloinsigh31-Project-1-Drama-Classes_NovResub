@@ -508,8 +508,8 @@ Screengrab of error:
 
 ![alt text](./assets/images/HTML_Error1_Signup.png)
 
-  <p>Description of error:</p>
-  <p>Response to error:</p>
+  <p>Description of error: Unneeded stray end closing tag for header</p>
+  <p>Response to error: Deleted accordingly</p>
    </li>
   <li>
    <p>The second error in the HTML code on the Sign-Up page was as follows:</p>
@@ -517,8 +517,8 @@ Screengrab of error:
 
 ![alt text](./assets/images/HTML_Error2_Signup.png)
 
-  <p>Description of error:</p>
-  <p>Response to error:</p>
+  <p>Description of error: Section lacks heading</p>
+  <p>Response to error: Removed section element, suffices as div as only there for spinner animation effect</p>
   </li>
   <li>
    <p>The third error in the HTML code on the Sign-Up page was as follows:</p>
@@ -526,16 +526,16 @@ Screengrab of error:
 
 ![alt text](./assets/images/HTML_Error3_Signup.png)
 
-  <p>Description of error:</p>
-  <p>Response to error:</p>
+   <p>Description of error: Section lacks heading</p>
+  <p>Response to error: Added h2 heading of 'Over to you!' to the section and styled in CSS stylesheet</p>
 <li>
-<p>The forth error in the HTML code on the Sign-Up page was as follows:</p>
-  <p>Screengrab of error:</p>
+ <p>The forth error in the HTML code on the Sign-Up page was as follows:</p>
+ <p>Screengrab of error:</p>
 
 ![alt text](./assets/images/HTML_Error4_Signup.png)
 
-  <p>Description of error:</p>
-  <p>Response to error:</p>
+ <p>Description of error: Section lacks heading</p>
+ <p>Response to error: Added h4 element tags around 'User details' subtitle</p>
   </li>
   <li>
   <p>The fifth error in the HTML code on the Sign-Up page was as follows:</p>
@@ -543,8 +543,8 @@ Screengrab of error:
 
 ![alt text](./assets/images/HTML_Error5_Signup.png)
 
-  <p>Description of error:</p>
-  <p>Response to error:</p>
+  <p>Description of error: End tag for form seen but there were open elements</p>
+  <p>Response to error: Moved closing tag for section above closing tage for form</p>
   </li>
   <li>
   <p>The sixth error in the HTML code on the Sign-Up page was as follows:</p>
@@ -552,8 +552,8 @@ Screengrab of error:
 
 ![alt text](./assets/images/HTML_Error6_signup.png)
 
-  <p>Description of error:</p>
-  <p>Response to error:</p>
+  <p>Description of error: Unclosed section ending tag</p>
+  <p>Response to error: Moved section within form element</p>
   </li>
   <li>
    <p>The seventh error in the HTML code on the Sign-Up page was as follows:</p>
@@ -561,8 +561,8 @@ Screengrab of error:
 
 ![alt text](./assets/images/HTML_Error7_Signup.png)
 
-  <p>Description of error:</p>
-  <p>Response to error:</p>
+  <p>Description of error: Fatal error cannot recover after last error</p>
+  <p>Response to error: Moved all sections within form element where needed</p>
   </li>
   <li>
 
