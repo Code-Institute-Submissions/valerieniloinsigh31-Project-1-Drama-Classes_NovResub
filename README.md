@@ -380,7 +380,7 @@ Per the screengrabs included, I manually pasted in the HTML of each individual p
   <p>Response to error:As per error 14,15&16, deleted accordingly, had been deleted when updated to flex coding</p>
   </li>
   </ol>
-  <h3>>2. Our Mission page errors:</h3>
+  <h3>2. Our Mission page errors:</h3>
   <ol>
   <li>
     <p>The first error in the HTML code on the Our Mission page was as follows:</p>
@@ -388,8 +388,8 @@ Per the screengrabs included, I manually pasted in the HTML of each individual p
 
 ![alt text](./assets/images/HTML_Error1_Mission.png)
 
-  <p>Description of error:</p>
-  <p>Response to error:</p>
+  <p>Description of error: As per "Welcome page", metadata includes a typo of 'contant' as opposed to 'content'</p>
+  <p>Response to error: Updated to 'content'</p>
   </li>
   <li>
    <p>The second error in the HTML code on the Our Mission page was as follows:</p>
@@ -397,8 +397,8 @@ Per the screengrabs included, I manually pasted in the HTML of each individual p
 
 ![alt text](./assets/images/HTML_Error2_Mission.png)
 
-  <p>Description of error:</p>
-  <p>Response to error:</p>
+  <p>Description of error: Content deemed to be missing from metadata due to 'contant' typo</p>
+  <p>Response to error:Resolved when 'contant' updated to 'content'</p>
   </li>
   <li>
    <p>The third error in the HTML code on the Our Mission page was as follows:</p>
@@ -406,89 +406,89 @@ Per the screengrabs included, I manually pasted in the HTML of each individual p
 
 ![alt text](./assets/images/HTML_Error3_Mission.png)
 
-  <p>Description of error:</p>
-  <p>Response to error:</p>
+  <p>Description of error:Unneeded strat closing tag for meta included</p>
+  <p>Response to error: Deleted accordingly</p>
   </li>
   <li>
-   The forth error in the HTML code on the Our Mission page was as follows:
-Screengrab of error:
+   <p>The forth error in the HTML code on the Our Mission page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text](./assets/images/HTML_Error4_Mission.png);
+![alt text](./assets/images/HTML_Error4_Mission.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Use h2-h6 headers instead of h1 heading if not a top level heading as often screenreaders interpret h1 as top level only</p>
+  <p>Response to error: Updated to h2</p>
   </li>
   <li>
    The fifth error in the HTML code on the Our Mission page was as follows:
 Screengrab of error:
 
-![alt text](./assets/images/HTML_Error5_Mission.png);
+![alt text](./assets/images/HTML_Error5_Mission.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Article lacks heading.</p>
+  <p>Response to error:Removed article as Mission Statement section fits with theme pg page, not independent, standalone section. Header included within the section element.</p>
   </li>
   <li>
-   The sixth error in the HTML code on the Our Mission page was as follows:
-Screengrab of error:
+   <p>The sixth error in the HTML code on the Our Mission page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text](./assets/images/HTML_Error6_Mission.png);
+![alt text](./assets/images/HTML_Error6_Mission.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Illegal space included within src attribute in img element</p>
+  <p>Response to error: Updated all image names to have '_' as opposed to spaces and redid all of the filepaths as an overall resolution to the images throughout the website</p>
   </li>
   <li>
-   The seventh error in the HTML code on the Our Mission page was as follows:
-Screengrab of error:
+   <p>The seventh error in the HTML code on the Our Mission page was as follows:</p>
+   <p>Screengrab of error:</p>
 
 ![alt text](./assets/images/HTML_Error7_Mission.png);
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Article lacks heading</p>
+  <p>Response to error:The section on Joanne's education and qualifications is standalone and coule be considered as an independent element to the article section. Moved header up to be included below article opening tag </p>
   </li>
   <li>
-   The eigth error in the HTML code on the Our Mission page was as follows:
-Screengrab of error:
+  <p>The eight error in the HTML code on the Our Mission page was as follows:</p>
+  <p>Screengrab of error:</p>
 
 ![alt text](./assets/images/HTML_Error8_Mission.png)
 
-  Description of error:
-  Response to error:
+   <p>Description of error: Illegal space included within src attribute in img element</p>
+  <p>Response to error: Updated all image names to have '_' as opposed to spaces and redid all of the filepaths as an overall resolution to the images throughout the website</p>
   </li>
   <li>
-   The ninth error in the HTML code on the Our Mission page was as follows:
-Screengrab of error:
+   <p>The ninth error in the HTML code on the Our Mission page was as follows:</p>
+   <p>Screengrab of error:</p>
 
 ![alt text](./assets/images/HTML_Error9_Mission.png)
 
-  Description of error:
-  Response to error:
+   <p>Description of error: Illegal space included within src attribute in img element</p>
+  <p>Response to error: Updated all image names to have '_' as opposed to spaces and redid all of the filepaths as an overall resolution to the images throughout the website</p>
   </li>
   <li>
-   The tenth error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+  <p>The tenth error in the HTML code on the Welcome page was as follows:</p>
+  <p>Screengrab of error:</p>
 
 ![alt text](./assets/images/HTML_Error10_Mission.png)
 
-  Description of error:
-  Response to error:
+   <p>Description of error: Illegal space included within src attribute in img element</p>
+  <p>Response to error: Updated all image names to have '_' as opposed to spaces and redid all of the filepaths as an overall resolution to the images throughout the website</p>
   </li>
   <li>
-   The eleventh error in the HTML code on the Welcome page was as follows:
-Screengrab of error:
+   <p>The eleventh error in the HTML code on the Welcome page was as follows:</p>
+   <p>Screengrab of error:</p>
 
 ![alt text](./assets/images/HTML_Error11_Mission.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Illegal space included within src attribute in img element</p>
+  <p>Response to error: Updated all image names to have '_' as opposed to spaces and redid all of the filepaths as an overall resolution to the images throughout the website</p>
   </li>
   <li>
-   The twelfth error in the HTML code on the Our Mission page was as follows:
-Screengrab of error:
+   <p>The twelfth error in the HTML code on the Our Mission page was as follows:</p>
+   <p>Screengrab of error:</p>
 
 ![alt text](./assets/images/HTML_Error12_Mission.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error: Illegal space included within src attribute in img element</p>
+  <p>Response to error: Updated all image names to have '_' as opposed to spaces and redid all of the filepaths as an overall resolution to the images throughout the website</p>
   </li>
   <li>
     The thirteenth error in the HTML code on the Our Mission page was as follows:
