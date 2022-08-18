@@ -506,100 +506,99 @@ Screengrab of error:
   <p>The first error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error1_SignUp.png)
 
   <p>Description of error:</p>
   <p>Response to error:</p>
    </li>
   <li>
-   The second error in the HTML code on the Sign-Up page was as follows:
-Screengrab of error:
+   <p>The second error in the HTML code on the Sign-Up page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/)
 
-  Description of error:
-  Response to error:
+  <p>Description of error:</p>
+  <p>Response to error:</p>
   </li>
   <li>
-   The third error in the HTML code on the Sign-Up page was as follows:
-Screengrab of error:
+   <p>The third error in the HTML code on the Sign-Up page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error3_SignUp.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error:</p>
+  <p>Response to error:</p>
+<li>
+<p>The forth error in the HTML code on the Sign-Up page was as follows:</p>
+  <p>Screengrab of error:</p>
+
+![alt text](./assets/images/HTML_Error4_SignUp.png)
+
+  <p>Description of error:</p>
+  <p>Response to error:</p>
   </li>
   <li>
-   The forth error in the HTML code on the Sign-Up page was as follows:
-Screengrab of error:
+  <p>The fifth error in the HTML code on the Sign-Up page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/)
 
-  Description of error:
-  Response to error:
+  <p>Description of error:</p>
+  <p>Response to error:</p>
   </li>
   <li>
-   The fifth error in the HTML code on the Sign-Up page was as follows:
-Screengrab of error:
+  <p>The sixth error in the HTML code on the Sign-Up page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error6_SignUp.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error:</p>
+  <p>Response to error:</p>
   </li>
   <li>
-   The sixth error in the HTML code on the Sign-Up page was as follows:
-Screengrab of error:
+   <p>The seventh error in the HTML code on the Sign-Up page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error7_SignUp.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error:</p>
+  <p>Response to error:</p>
   </li>
   <li>
-   The seventh error in the HTML code on the Sign-Up page was as follows:
-Screengrab of error:
+  <p>The eight error in the HTML code on the Sign-Up page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error8_SignUp.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error:</p>
+  <p>Response to error:</p>
   </li>
   <li>
-   The eigth error in the HTML code on the Sign-Up page was as follows:
-Screengrab of error:
+  <p>The ninth error in the HTML code on the Sign-Up page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error9_SignUp.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error:</p>
+  <p>Response to error:</p>
   </li>
   <li>
-   The ninth error in the HTML code on the Sign-Up page was as follows:
-Screengrab of error:
+   <p>The tenth error in the HTML code on the Sign-Up page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error10_SignUp.png)
 
-  Description of error:
-  Response to error:
+  <p>Description of error:</p>
+  <p>Response to error:</p>
   </li>
   <li>
-   The tenth error in the HTML code on the Sign-Up page was as follows:
-Screengrab of error:
+   <p>The eleventh error in the HTML code on the Sign-Up page was as follows:</p>
+  <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error11_SignUp.png)
 
-  Description of error:
-  Response to error:
-  </li>
-  <li>
-   The eleventh error in the HTML code on the Sign-Up page was as follows:
-Screengrab of error:
-
-![alt text]()
-
-  Description of error:
-  Response to error:
+  <p>Description of error:</p>
+  <p>Response to error:</p>
   </li>
   </ol>
   
