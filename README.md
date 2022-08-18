@@ -1,8 +1,8 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-<h1>PURE DRAMA FOR TWEENS AND TEENS</h1>
+<h1>PURE DRAMA</h1>
 
-<h2><em>Provisional Introduction</em><h2>
+<h2><em>Introduction</em><h2>
 
 <h3><b>-What the project hopes to accomplish.</b></h3>
  <p>The aim of the website is to advertise newly launched, performance-based classes for tweens and teens in Clonakilty. The website is in association with 'Pure Drama Limited', a newly establised company founded by facilitator/practitioner, Joanne Downey and her husband, Michael Downey. Having graduated with an Honors degree in 'Drama and Theatre Studies' and an MFA in Playwriting, Joanne has launched her own company 'Pure Drama' with her husband, Michael Downey and the pair are launching classes in their native town of Clonakilty. The website should successfully display what is on offer with the classes (content/format), describe who the facilitator/teacher is as well outline the mission of the newly established company and describe what their relevant experience/qualifications are. The site should also indicate towards the format of the end-of-term shows and highlight how the cast/crew will be sourced from the classes but that it is not mandatory for the people in the class to participate in the show. The content and location of the classes should be presented. With the design, it should be concisely outlined how the classes can be offered one-on-one or in groups, what times are available and what will be involved with the classes. There will be an interactive, responsive page also which allows the user of the website to input their details and preferences.</p>
@@ -506,7 +506,7 @@ Screengrab of error:
   <p>The first error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error1_Signup.png)
 
   <p>Description of error:</p>
   <p>Response to error:</p>
@@ -515,7 +515,7 @@ Screengrab of error:
    <p>The second error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error2_Signup.png)
 
   <p>Description of error:</p>
   <p>Response to error:</p>
@@ -524,7 +524,7 @@ Screengrab of error:
    <p>The third error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error3_Signup.png)
 
   <p>Description of error:</p>
   <p>Response to error:</p>
@@ -532,7 +532,7 @@ Screengrab of error:
 <p>The forth error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error4_Signup.png)
 
   <p>Description of error:</p>
   <p>Response to error:</p>
@@ -541,7 +541,7 @@ Screengrab of error:
   <p>The fifth error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error5_Signup.png)
 
   <p>Description of error:</p>
   <p>Response to error:</p>
@@ -550,7 +550,7 @@ Screengrab of error:
   <p>The sixth error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error6_signup.png)
 
   <p>Description of error:</p>
   <p>Response to error:</p>
@@ -559,7 +559,7 @@ Screengrab of error:
    <p>The seventh error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text]()
+![alt text](./assets/images/HTML_Error7_Signup.png)
 
   <p>Description of error:</p>
   <p>Response to error:</p>
