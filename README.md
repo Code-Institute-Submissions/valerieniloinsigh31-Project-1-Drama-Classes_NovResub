@@ -788,29 +788,17 @@ I ensured that items only differed from the exxpected design when the website wa
 
 A few examples of these design enhancements include the text-entry boxes highlighting in pink once clicked on, on the 'Sign-Up' page, the collapsible widget for Contact Details on the 'Sign-Up Page', the classes section on the 'Welcome Page' having a red border and the additional, eye-catching animations added to the 'Pure Drama' title on the Welcome page and 'Joanne Downey' photo on the 'Our Mission' page
 
-<b>Information Architecture</b>
-
-Creation of organisational and navigational schemas
-
-Principles of organisation
-
--Information Architecture -Visual vocabulary 
-
-
 4. Skeleton Plane:
 
-Naviagtion design and interface design
+The skeleton plane is concerned with the navigation design and interface design.
+The two main things to consider per the tutorials, are what form the application will take in terms of deisgn workDesign and how users will get around what is presented.
 
-Design work-what form will application take
-How will users get around how we present content
-
+The goals are:
 Give form to function
 Establish value in users mind
 Lead user toward continuing experience
 Add value with each click
 Add positivity to overall experience with each interaction
-
-Only break from convetnion if you can improve on it
 
 Suite of visual conventions
 
@@ -820,9 +808,9 @@ Data at rest (database-MySQL, MongoDB) Data in motion (manipulated-python-Django
 
 Progressive disclosure-reveal information across space...navigation-different tabs used
 
-Visually group information in order of important- Mission-Education and Qualifications-Class content
+Visually group information in order of importance- Mission-Education and Qualifications-Class content
 
-E-Commerce site Hick-Hyman Law, too many options, the longer it takes for consumer to make a decision
+I considered the Hick-Hyman Law, that if the user is presented with too many options, it will take them longer to reach a decision so I tried to keep the message clear and uniform so that the user would be enticed to join 'Pure Drama'
 
 Navigation-how do you find
 
@@ -830,72 +818,46 @@ browse, filters, search, pagination controls
 
 progressive disclosure-progress bars
 
-representational icons-font awesome 
+I inserted representational icons using icons from fontawesome
 
-colour, icons and text differentiate naviagtion elements
+I ensured consistency across the tabs 
 
-consistent-same across content 
-
-Metaphors:
-
-Useful in conveying info
-
-visual metaphors
-
-Good info design-invisible 
+Per the tutorials, good information design should be invisible 
 
 Easy to navigate, relevant information, good information design
 
-too much information worse then no information 
+Per the tutorials, too much information is worse then no information so I tried to keep all of the informaiton conveyed as concise as possible
 
-context and order matter
+The context and order matter and there is a hierarchy of importance
 
-hierarchy of importance
+The website is categorical when the information is similar, divided into sections, articles and paragraphs accordingly and colour coorindated 
 
-referential information-alphabetical
-
-categorical when info is similar
-
-clsutered, similar, category of information
-
-Clean, minimal, effective
+Per the tutorial instruction, I tried to ensure that the overall website was clean, minimal and effective
 
 <h4>Wireframes</h4>
 
-2D model of what finished product will be
+Wireframes are often used in website design. These are 2D models of what finished product will be which should be completed at the research phase.
 
-Simplified, stripped down version of 
+As referenced earlier, I used Balsamiq to create my wireframe, a simplified, stripped down version of what I wanted my website to be.
 
-form, information, arrnagement
+It worked as a starting point and helped me to decide on the form, information architecture and arrangement.
 
-starting point
-
-see balance of elements-sturcture-what gets included-how it's organised
-
-Have i left anything out, priority content noticed first 
+It allowed me to see the overall balance of elements and structure and to decide on what gets included andhow it's organised 
 
 Wireframes allow us to revisit stratgey and goals
 
-Wireframes-do relationships work, does it make sense (labels, arrangement and navigation)
+Per the tutorials, the wireframes help the develop to revisit the strategy and goals of the website and to investigate whether the relationships work and does it make sense (labels, arrangement and navigation)
 
 5. Surface Plane:
 
-A visual language that provides information and context
+The surface plane is a visual language that provides information and context. It provides colour, layout, fonts, images, order, sequence and the site's identity
 
-Provides colour, layout, fonts, images, order, sequence and the site's identity
+Provides economy- important elements easily recognised. i dneoted this with italics and boldings as well as heading size and the structure of the secitons
 
-Provides economy- important elements eaisly recognised 
-
-Content-split
-
-Progressive disclosure as move through naviational elements
+I considered progressive disclosure, and as the user moves through navigational elements, the welcome page leads to far more information on the 'Our Mission' page and then interaction is expected on the Sign-Up page
 
 Visual language-readability, legible, font contrast, consistent patterns
 
-Color contrast between foreground and background
-
-Contrast between fond...
-
-Patterns consistent
+Color contrast between foreground and background. I used the colour combination of purple on white throughout as it was simple but stark and offered adequate contrast so as to ensure that all of the text was legible still.
 
 </p>
