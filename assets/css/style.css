@@ -71,6 +71,7 @@ nav a:hover {
   margin-left: 40%;
   animation: tada; 
   animation-duration: 5s;
+  color:#6D10FF;
 }
 
 /*friends background image*/

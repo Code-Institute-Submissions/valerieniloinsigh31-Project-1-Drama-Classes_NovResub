@@ -380,6 +380,12 @@ Per the screengrabs included, I manually pasted in the HTML of each individual p
   <p>Response to error:As per error 14,15&16, deleted accordingly, had been deleted when updated to flex coding</p>
   </li>
   </ol>
+
+<p>
+No further error message: 
+
+![alt text]()
+</p>
   <h3>2. Our Mission page errors:</h3>
   <ol>
   <li>
@@ -500,6 +506,11 @@ Screengrab of error:
   <p>Response to error: Removed article element from Classes section as classes related to general theme of page, not standalone an independent. Kept as section, which includes a h2 heading of 'Classes'.</p>
   </li>
   </ol>
+  <p>
+No further error message: 
+
+![alt text]()
+</p>
   <h3>3. Sign-Up page errors:</h3>
   <ol>
    <li>
@@ -566,6 +577,11 @@ Screengrab of error:
   </li>
   <li>
   </ol>
+  <p>
+  No further errors message:
+
+  ![alt text](./assets/images/SignUp_no_more_errors.png)
+  </p>
   <section>
   <p>
   The errors listed above were the errors that appeared in the first instance of the W3C HTML run for each page. I rectified these errors and reran the code and in some cases, new errors appeared and I rectified (or attempted to recitfy them also).
