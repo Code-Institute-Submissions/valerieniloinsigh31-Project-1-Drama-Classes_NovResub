@@ -205,9 +205,13 @@ What was the solution?: I inserted a table and updated the alignment
 What was the solution?: The names of the filepaths contained spaces and had to be updated to contain underscores '_' between words
 
 <h2>LIGHTHOUSE</h2>
-I accessed the 'LIGHTHOUSE' trsting tool via Developer Tools. Please see a screengrab of the successful lIGHTHOUSE testing below. I believe all %s are adequate:
+I accessed the 'LIGHTHOUSE' testing tool via Developer Tools. Please see a screengrab of the successful lIGHTHOUSE testing below. I believe all %s are adequate:
 
 ![alt text](.//assets/images/LIGHTHOUSE_validation.png)
+
+I redid the 'LIGHTHOUSE' validation after adjusting the website to correct all of the HTML and CSS errors and still achieved adequate % as per below screengrab:
+
+![alt text](./assets/images/LIGHTHOUSE_validation_postw3ccorrection.png)
 
 
 Please see details on the manual testing of all of the website (HTML first, followed by CSS)
@@ -588,26 +592,39 @@ No further errors message:
   </p>
   </section>
 
+<hr>
+
   <b>CSS:</b>
 
   <h3>The testing of CSS was completed on the JIGSAW Validator.</h3>
 
- Please see the W3C igsaw validator below:
+ <p>Please see the W3C Jigsaw validator below:</p>
+
+One error and eight warnings found:
+
+![alt text](./assets/images/CSS_Jigsaw_Testing.png)
+
+ <p>Response to error: Updated to 'text-align:center' and this resolved the error</p>
 
 
-  1. Welcome Landing page
-  2. Our Mission page
-  3. SignUp page
- 
+Redid the validation testing and no errors:
+
+![alt text](./assets/images/CSS_no_errors.png)
+
   <b>UNFIXED BUGS</b>
    
-   Mention unfixed bugs and why they were not fixed. Include shortcomings of the frameworks and technologies used. 
-
-   Difficulty with responsiveness (Flex-box vs CSS grid)
-   Layout and positioning
-   The applause video on the welcome page still contains the adobe mark on video
+  <ul>
+  <li>
+  The applause video on the welcome page still contains the adobe mark on video
+  </li>
+  <li>
+  Within the HTML testing, there remains one 'aria-label' related error on the Welcome Page test.
+  </li>
+  <li>
+  On the Sign-Up Page the 'Class Styles' checKbox section is supposed to allow the user to input numerous choices but though multiple checkboxes can be submitted, only the first option appears within the data submitted on the confirmation of submission page.
+  </li>
+  </ul>
    
-
    <b>DEPLOYMENT PROCESS</b>
 
    The site was deployed to GitHub pages. I took the following steps to deploy the site:
@@ -618,21 +635,22 @@ No further errors message:
 </ol>
    As then specified on GITHUB, the <em>live link</em> can be found here:
 
+   https://valerieniloinsigh31.github.io/Project-1-Drama-Classes/s
+
    <b>CREDITS:</b>
 
-   As seen on the website, I drew inspiration from many different sources. i was inspired by the 'Love Running website' in the formatting of some of my features and used many different sources referenced in the tutorials for the images and content. Please see credits below for content and images/videos.:
+   <p>As seen on the website, I drew inspiration from many different sources. i was inspired by the 'Love Running website' in the formatting of some of my features and used many different sources referenced in the tutorials for the images and content. Please see credits below for content and images/videos.:</p>
 
-   <b>CONTENT:</b>
+   <b>CONTENT & MEDIA:</b>
+   -Icons throughout the websitewere taken fro: FontAwesome.com
+   -images were taken from:
+   -Video was taken from:
+   -Pure Drama title animation: animate.css
+   -Iframe map:
+   Our Mission:
 
-   -Text for homepage was taken from ''
-   -Icons beside the text throughout the website and in the footer were taken from Font Awesome
-
-   <b>MEDIA:</b>
-   1. Welcome-Landing Page
-   The background-image used in the 'Welcome' page is from:
-   The photo divided out into class times is taken from ''
-   'The video of applause' that autoplays when scrolling down the 'Welcome' page is taken from
-   The iframe that showcases the location of the town is taken from ''
+   Sign-Up Form:
+   -Validation of submission form from Code Institute webinars
 
    2. Our Mission Page
    The 'road ahead' picture was taken from ''
@@ -644,8 +662,6 @@ No further errors message:
    Clapper, cinema tickets and popcorn:
    Hand procuring a microphone in a circle of light:
 
-   The icons beside the class descriptions came from font awesome
-
    3. Sign-Up Form
    The loading spinner animation was extracted from:
    The phots came from the following respective sources:
@@ -654,10 +670,9 @@ No further errors message:
    Image alternative photo of ''
    The icones beside titles, radiobuttons and checkboxes came from font awesome 
 
-   The idea for the collapsible summary widget came from '
+   The idea for the collapsible summary widget came from the Code Institute tutorials
 
- -Common practice to use code from other repositaries and tutorials-important to be specific to avoid plagiarism
-Code inspired by other repositaries and tutorials:
+Code inspired by Code institute tutorials:
 
 -Navigation tab-tutorial
 -iframe for applause video, site offers option to copy code directly
@@ -667,86 +682,70 @@ Code inspired by other repositaries and tutorials:
 -The collapsible widget was inspired by ''
 
 
-User Experience:
+<h2>User Experience:</h2>
 
-Brainstorm: 
+<b>Brainstorm:& Research</b>
 
-I brainstormed this idea by thinking about what type of website would be ideal for the goal that I have in mind: A minimum viable product that is well done and doesn't negate from the website due to lack of Javascript etc. I decided to go with a theme that I knew would work well from looking at the lectures (the first portfolio project/Love Running etc) As I am a Drama graduate who has taught a variety of performance-based classes at different venues, I felt that this would be suitable as my first project as I had the required expertise needed to disclose the information needed and knew that the theme was entertaining enough in itself.
+<p>I brainstormed this idea by thinking about what type of website would be ideal for the goal that I have in mind: A minimum viable product that is well done and doesn't negate from the website due to lack of Javascript etc. I decided to go with a theme that I knew would work well from looking at the lectures (the first portfolio project/Love Running etc). As I am a Drama graduate, who has first-hand experience teaching a variety of performance-based classes at different venues, I felt that this would be suitable as my first project as I had the required expertise needed to disclose the information needed.
 
-I brainstormed the shape of the website by using Balsimiq which was made readily available to students of the Code institute. Please see screengrabs of Balsimiq below:
+I brainstormed the shape of the website by using Balsamiq to develop a wireframe, which was made readily available to students of the Code institute. Please see screengrabs of my Balsamiq design below:
 
-BALSIMIQ BRAINSTORM:
+![alt text](./assets/images/Balsamiq_brainstorm.png)
 
 For this first project, which is heavily focussed on design, I wanted to create a solid minimum viable product as opposed to being overly ambitious and adding too much and making everything messy. I wanted to have clear features that were easy to navigate and fulfilled the function that they were there for. 
 
-I beleive that the wEBsite is very user friendly, it is respeonsive and interactive, clearly laid out and accesible as it contains alts and aria-labels for screen readers.
+I believe that the website is very user friendly, it is respeonsive and interactive, clearly laid out and accesible as it contains alts and aria-labels for screen readers.
 
-I considered the five planes of user experience when designing my website: Strategy Plane, Scope Plane, Structure Plane, Skeleton Plane and the Surface pLANE.
+I considered the five planes of user experience (as outlined in the Code Institute webinars) when designing my website:
+ Strategy Plane, Scope Plane, Structure Plane, Skeleton Plane and the Surface Plane.
 
 Please see how I considered these below:
 
-1. Strategy Plane: I needed to consider viability and usability as well as my limited resources and skillset considering this would be my first ever project. For it's purpose, the content is culturally appropriate and the content can be tracked in an intuitive way. The business goal of the website is to increase the awarness of the classes and to build a positive reportuation. Tech condi=sideration-website must appeal to tweens and teens and appeal ot their interest in facebook/twitter/youtube and instagram. The goal with the feedback form is to assist in the development of the website to make it more appealing to the user. It's a B2C website. Accordingly, I have made an affort to make the website catchy and appealing, with use of large images.
+1. Strategy Plane: I needed to consider viability and usability as well as my limited resources and skillset considering this would be my first ever software development project. For it's purpose, the content is culturally appropriate and the can be tracked in an intuitive way. The business goal of the website is to increase the awareness of the classes and to build a positive reputation. The website must appeal to tweens and teens and their their interest in facebook/twitter/youtube and instagram. The goal with the feedback form is to assist in the development of the website to make it more appealing to the user. It's a Business to Consumer website. Accordingly, I have made an affort to make the website catchy and interactive.
 
-  In the research phases I decided this website would be worth doing as I would be informed.
-What value can be provided to the demographic of tweens and teens and their parents
-  
-  
-  Viability and Feasibility (have skills, resources, time to implement features) versus Importance (business goals and user needs). Deciding on what to keep and not to keep.
+When deciding on what features to include, I compared viability and feasibility (whether I had the skills, resources and time to implement the desired features) to Importance (business goals and user needs). Deciding on what to keep and not to keep.
 
-  List and rate opportunities 1-5 in terms of dimensions importance versus viability and feasability
-  Broken into opportunities and problems to be solved
+The business goals with the website included:
 
-  -Create online presence
-  -Make group known in the town and beyond
+  -Create online presence-interlinking all platforms (Facebook, Twitter, Instagram and Youtube)
+  -Make group known in the town of Clonakilty and beyond
   -Showcase experience and qualifications
   -Detail sponsorships and present payment plan opportunity
-
-  (sum of importance/average viability*number items
-  )
-
-  Competitive-offering wide variety of versatile classes, over several days with option to learn in groups or alone, feedback form and payment plans available-affordable.
+  -Outline style and content of classes offered
+  -Provide a platform for audience feedback
 
 2. Scope Plane:
 
-What features of business/user needs needed
-Agile approach-small bitesze increments of development
-Minimal documentation-features simpl and schedule controllable
+When considering the scope plane, I focussed on what to include to satisfy all of the user needs.
+As mentioned in the tutorials, I applied an agile approach to building my website-logging in often and making small bitesze increments of development on each occassion as opposed to rushing things or being wreckless.
+The wireframe and mentor meetings assisted to create focus and to develop realistic expectations. 
+I decided on the features and everything felt more manageable and controllable.
 
- new ideas for future features-suture releases
+ When being realistic, I also considered new ideas for future features-as outlined elsewhere in this README.
 
- sprint-duration of time committed to buidling something-rarely over one month
+ Per the tutorials, the time a developer has to commit to building something is rarely over one month-described as a 'sprint'.
+ Considering this, if the scope is too big and too ambitious, I knew I would not meet deadlines or the project deadline date and considered this when planning.
 
- If scope is too big, not meet deadlines, release date, commitment-was worried about that
+ Having watched the tutorials, I know to avoid scope creep (adding random new features too late) as this could be wreckless. Though, saying that, I did add a couple of features when refining the website in the last week when doing w3c testing (e.g. I added animations)
+ I didn't want the scope to be too small as this would lead to unimpressive products.
 
- Avoid scope creep (adding random new features too late)
- Don't want scope too small-unimpressive products
+ Per the tutorials, the user's requirements can be split into three subcategories:
 
- Requirements
+ -What users need
+ -What they actually need
+ -What they don't know they need
 
- What users need
- What they actually need
- What they don't know they need
+ In terms of content requirements, mixed content was used in our website-with images, video and animations and I deemed that everything incldued was useful, sellable and buildable.
 
- Difference between imagining how something will be used and how it will actually be used
+ Also it was noted that there is a difference between imagining how something will be used and how it will actually be used, 
 
- Brainstorm-explore-discuss
-
- Requirement types
-
- Content requirements
-
- Mixed content used in our website-images, video
-
- Requirement categories-types: Useful, Sellable, Buildable
-
- Useful-yes website informs potential customrs
- Sellable-
 
  Objective-Functional-Non-functional-Business rules
 
- Objective-what does user want to accomplish
- Functional-What does user need to do to accomplish pbjective
- Non-functional-contraints website has. Scaleable:as user base grows, can application handle gorwth in traffic
+ Objective-what does user want to accomplish?
+ Functional-What does user need to do to accomplish objective
+ Objective and Non-functional-contraints website has.
+ Scaleable:as user base grows, can application handle the growth in traffic
 
  Business rules: What dynamic constraints do we have to meet?
 
@@ -754,32 +753,40 @@ Minimal documentation-features simpl and schedule controllable
 
  User story-how user interacts with system
 
+ Sample User Story:
+
+ A local Clonakilty teen or tween aspires to do something in the evenings after school both as a social outlet and to develop a skill.
+ they review the website and can easily udnerstand what is on offer.
+ The learn about the content and format of the classes.
+ The note the location.
+ They gain trust from reading the mission statement and Joanne Downey's information
+ They input their detaisl and state their preferences
+ They provide useful feedback which is submitted to Joanne
+ They take note of the contact details and can readily contact Pure Drama, if needed
+
+
 3. Structure Plane:
 
-Organisation of functionality and content. Navigating through in a functional way.
+the structure plane is concerned with the organisation of functionality and content. Navigating through in a functional way.
 
-Categories of information-sections
+I ensured the different categories of information are divided into sections, articles, divisions and paragraphs, as appropriate. The information is presented in an organised and intuitive way.
 
-Info presentation and organisation-intuitive
+<b>Interaction Design</b>
 
-Interaction Design
+The interaction design is the structure and behavior of the interactive systems within the website (e.g. the navigation tabs in the heading)
 
-Structure and behavior of interactive systems
+I ensured the following when designing the website:
+<ul>
+<li>Site is consistent, predictable , learnable, visible and clear feedback (navigation bar and social links on every page)</li>
+<li>Interactive features are consistent in colouring, the combination of purple and white is used throughout the website as I believe the simply but stark layout suits the theme. Also, the submit buttons on the 'Sign-Up Form' are all coloured in aqua-marine to stand out as slightly different form the rest of the website but consistent with each other. 
+</li>
+<li>Scenario: Icons, navigation tabs and social links operate consistently on each of the three pages</li>
+<li>Consistency of terms, content and imagery have a stable and consistent style. The font used throughout is Verdana and I aimed to keep the tone consistent</li>
+</ul>
 
-Meaning for rleationships elements-content, information
+I ensured that items only differed from the exxpected design when the website was enhanced because of it
 
-Functionality and interactivity
-
-Reduces risk of user error,makes user aware of state chnages
-
--Site is consistent, predictable , learnable, visible and clear feedback (navigation bar and social links on every page)
--Interactive features consistent in colouring
--Scenario: Transitions, rollover, tool clips behave consistently
-- Consistency of voice-lablels and terms. Content and imagery, stable and consistent style
-
-Only different when enhances experience-e.g. pink submission buttons in 'Sign-Up' page
-
--Intuitive, single -trial learning, sitck to conventions
+A few examples of these design enhancements include the text-entry boxes highlighting in pink once clicked on, on the 'Sign-Up' page, the collapsible widget for Contact Details on the 'Sign-Up Page', the classes section on the 'Welcome Page' having a red border and the additional, eye-catching animations added to the 'Pure Drama' title on the Welcome page and 'Joanne Downey' photo on the 'Our Mission' page
 
 <b>Information Architecture</b>
 
@@ -813,7 +820,7 @@ Data at rest (database-MySQL, MongoDB) Data in motion (manipulated-python-Django
 
 Progressive disclosure-reveal information across space...navigation-different tabs used
 
-Visuall group information in order of important- Mission-Education and Qualifications-Class content
+Visually group information in order of important- Mission-Education and Qualifications-Class content
 
 E-Commerce site Hick-Hyman Law, too many options, the longer it takes for consumer to make a decision
 
@@ -853,7 +860,7 @@ clsutered, similar, category of information
 
 Clean, minimal, effective
 
-Wireframes
+<h4>Wireframes</h4>
 
 2D model of what finished product will be
 
@@ -891,3 +898,4 @@ Contrast between fond...
 
 Patterns consistent
 
+</p>
