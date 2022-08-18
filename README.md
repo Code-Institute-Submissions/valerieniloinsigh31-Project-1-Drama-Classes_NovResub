@@ -150,10 +150,11 @@ Response to testing: As intended, the collapsible widgets expands to reveal the 
 
  <h3>Manual Testing of the responsiveness of the website:</h3>
  1. To different viewports
-  I opened the website on my phone and the responsive elements worked accordingly-viewport height, viewport weight and different photos used on differed sizes:
-
+  Once I deployed my website, I opened the link on my i-phone and noted that the images on the 'Our Mission' page did not appear at all and the classes boxes on the Welcome page became distorted. Additionally the video appeared off-centre.
+    I applied flex to these elements and retested per below:
+   
   Responsiveness testing:
-  Using developer tools, Jigsaw screenshot:
+  
                             Iphone 11  Macbookpro  Notes
   Site is responsive>=700px   n/a      Good         
   Site is responsive<=700px.  Good     n/a.   When does screen get too small
