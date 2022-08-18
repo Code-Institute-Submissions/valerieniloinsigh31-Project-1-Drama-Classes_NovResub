@@ -506,7 +506,7 @@ Screengrab of error:
   <p>The first error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text](./assets/images/HTML_Error1_SignUp.png)
+![alt text]()
 
   <p>Description of error:</p>
   <p>Response to error:</p>
@@ -515,7 +515,7 @@ Screengrab of error:
    <p>The second error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text](./assets/images/)
+![alt text]()
 
   <p>Description of error:</p>
   <p>Response to error:</p>
@@ -524,7 +524,7 @@ Screengrab of error:
    <p>The third error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text](./assets/images/HTML_Error3_SignUp.png)
+![alt text]()
 
   <p>Description of error:</p>
   <p>Response to error:</p>
@@ -532,7 +532,7 @@ Screengrab of error:
 <p>The forth error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text](./assets/images/HTML_Error4_SignUp.png)
+![alt text]()
 
   <p>Description of error:</p>
   <p>Response to error:</p>
@@ -541,7 +541,7 @@ Screengrab of error:
   <p>The fifth error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text](./assets/images/)
+![alt text]()
 
   <p>Description of error:</p>
   <p>Response to error:</p>
@@ -550,7 +550,7 @@ Screengrab of error:
   <p>The sixth error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text](./assets/images/HTML_Error6_SignUp.png)
+![alt text]()
 
   <p>Description of error:</p>
   <p>Response to error:</p>
@@ -559,47 +559,13 @@ Screengrab of error:
    <p>The seventh error in the HTML code on the Sign-Up page was as follows:</p>
   <p>Screengrab of error:</p>
 
-![alt text](./assets/images/HTML_Error7_SignUp.png)
+![alt text]()
 
   <p>Description of error:</p>
   <p>Response to error:</p>
   </li>
   <li>
-  <p>The eight error in the HTML code on the Sign-Up page was as follows:</p>
-  <p>Screengrab of error:</p>
 
-![alt text](./assets/images/HTML_Error8_SignUp.png)
-
-  <p>Description of error:</p>
-  <p>Response to error:</p>
-  </li>
-  <li>
-  <p>The ninth error in the HTML code on the Sign-Up page was as follows:</p>
-  <p>Screengrab of error:</p>
-
-![alt text](./assets/images/HTML_Error9_SignUp.png)
-
-  <p>Description of error:</p>
-  <p>Response to error:</p>
-  </li>
-  <li>
-   <p>The tenth error in the HTML code on the Sign-Up page was as follows:</p>
-  <p>Screengrab of error:</p>
-
-![alt text](./assets/images/HTML_Error10_SignUp.png)
-
-  <p>Description of error:</p>
-  <p>Response to error:</p>
-  </li>
-  <li>
-   <p>The eleventh error in the HTML code on the Sign-Up page was as follows:</p>
-  <p>Screengrab of error:</p>
-
-![alt text](./assets/images/HTML_Error11_SignUp.png)
-
-  <p>Description of error:</p>
-  <p>Response to error:</p>
-  </li>
   </ol>
   
   <b>CSS:</b>
