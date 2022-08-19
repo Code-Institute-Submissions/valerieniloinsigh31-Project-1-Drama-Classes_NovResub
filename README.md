@@ -684,22 +684,21 @@ The business goals with the website included:
 
   -Create online presence-interlinking all platforms (Facebook, Twitter, Instagram and Youtube)
   -Make group known in the town of Clonakilty and beyond
-  -Showcase experience and qualifications
-  -Detail sponsorships and present payment plan opportunity
+  -Showcase experience and qualifications of facilitator to inspire confidence and trust
+  -Detail sponsorships and mention flexible payment plan opportunity
   -Outline style and content of classes offered
   -Provide a platform for audience feedback
 
 2. Scope Plane:
 
 When considering the scope plane, I focussed on what to include to satisfy all of the user needs.
-As mentioned in the tutorials, I applied an agile approach to building my website-logging in often and making small bitesze increments of development on each occassion as opposed to rushing things or being wreckless.
+As mentioned in the tutorials, I applied an agile approach to building my website-logging in often and making small bitesize increments of development on each occassion as opposed to rushing things or being wreckless.
 The wireframe and mentor meetings assisted to create focus and to develop realistic expectations. 
 I decided on the features and everything felt more manageable and controllable.
 
  When being realistic, I also considered new ideas for future features-as outlined elsewhere in this README.
 
- Per the tutorials, the time a developer has to commit to building something is rarely over one month-described as a 'sprint'.
- Considering this, if the scope is too big and too ambitious, I knew I would not meet deadlines or the project deadline date and considered this when planning.
+ Per the tutorials, the time a developer has to commit to building something is rarely over one month-described as a 'sprint'. Considering this, if the scope is too big and too ambitious, I knew I would not meet deadlines or the project deadline date and considered this when planning.
 
  Having watched the tutorials, I know to avoid scope creep (adding random new features too late) as this could be wreckless. Though, saying that, I did add a couple of features when refining the website in the last week when doing w3c testing (e.g. I added animations)
  I didn't want the scope to be too small as this would lead to unimpressive products.
@@ -712,32 +711,28 @@ I decided on the features and everything felt more manageable and controllable.
 
  In terms of content requirements, mixed content was used in our website-with images, video and animations and I deemed that everything incldued was useful, sellable and buildable.
 
- Also it was noted that there is a difference between imagining how something will be used and how it will actually be used, 
-
-
+ I also considered the below four questions in relation to business rules:
  Objective-Functional-Non-functional-Business rules
 
  Objective-what does user want to accomplish?
- Functional-What does user need to do to accomplish objective
- Objective and Non-functional-contraints website has.
- Scaleable:as user base grows, can application handle the growth in traffic
+ Functional-What does user need to do to accomplish objective?
+ Non-functional-What contraints does the website have?
+ Scaleable: As the user base grows, can the application handle the growth in traffic?
 
- Business rules: What dynamic constraints do we have to meet?
-
- Product is a virtual representation of business
+ The product is a virtual representation of  a business and accordingly, the user is priority.
 
  User story-how user interacts with system
 
- Sample User Story:
+ <b>Sample User Story for website:</b>
 
  A local Clonakilty teen or tween aspires to do something in the evenings after school both as a social outlet and to develop a skill.
- they review the website and can easily udnerstand what is on offer.
- The learn about the content and format of the classes.
- The note the location.
- They gain trust from reading the mission statement and Joanne Downey's information
- They input their detaisl and state their preferences
- They provide useful feedback which is submitted to Joanne
- They take note of the contact details and can readily contact Pure Drama, if needed
+ They review the website and can easily understand what is on offer.
+ They learn about the content and format of the classes.
+ They note the location.
+ They gain trust from reading the mission statement and Joanne Downey's information.
+ They input their details and state their preferences.
+ They provide useful feedback, which is submitted to Joanne.
+ They take note of the contact details and can readily contact Pure Drama, if needed.
 
 
 3. Structure Plane:
@@ -765,21 +760,17 @@ A few examples of these design enhancements include the text-entry boxes highlig
 
 4. Skeleton Plane:
 
-The skeleton plane is concerned with the navigation design and interface design.
-The two main things to consider per the tutorials, are what form the application will take in terms of deisgn workDesign and how users will get around what is presented.
+<p>The skeleton plane is concerned with the navigation design and interface design.
+The two main things to consider per the tutorials, are what form the application will take in terms of design and how users will get around what is presented.
 
 The goals are:
 Give form to function
-Establish value in users mind
-Lead user toward continuing experience
-Add value with each click
+Establish value in the users mind
+Leads user toward continuing experience as they will be inspired to revisit the website
+Value is added with each click-taking user feedback, providing information and creating links with other social emdia platforms
 Add positivity to overall experience with each interaction
 
-Suite of visual conventions
-
-Give people what they need when they need it
-
-Data at rest (database-MySQL, MongoDB) Data in motion (manipulated-python-Django) Data as presented (user interface)
+The website is essentially a suite of visual conventions and I am aiming to give users what they want when they want it.
 
 Progressive disclosure-reveal information across space...navigation-different tabs used
 
@@ -787,23 +778,13 @@ Visually group information in order of importance- Mission-Education and Qualifi
 
 I considered the Hick-Hyman Law, that if the user is presented with too many options, it will take them longer to reach a decision so I tried to keep the message clear and uniform so that the user would be enticed to join 'Pure Drama'
 
-Navigation-how do you find
+I inserted representational icons using icons from fontawesome.
 
-browse, filters, search, pagination controls
+I ensured consistency across the tabs. 
 
-progressive disclosure-progress bars
+Per the tutorials, good information design should be invisible, only bas design is noticeable.
 
-I inserted representational icons using icons from fontawesome
-
-I ensured consistency across the tabs 
-
-Per the tutorials, good information design should be invisible 
-
-Easy to navigate, relevant information, good information design
-
-Per the tutorials, too much information is worse then no information so I tried to keep all of the informaiton conveyed as concise as possible
-
-The context and order matter and there is a hierarchy of importance
+I tried to make the website easy to navigate, with relevant, different information on each making for good information design. Per the tutorials, too much information is worse then no information so I tried to keep all of the informaiton conveyed as concise as possible. The context and order matter and there is a hierarchy of importance.
 
 The website is categorical when the information is similar, divided into sections, articles and paragraphs accordingly and colour coorindated 
 
@@ -811,27 +792,21 @@ Per the tutorial instruction, I tried to ensure that the overall website was cle
 
 <h4>Wireframes</h4>
 
-Wireframes are often used in website design. These are 2D models of what finished product will be which should be completed at the research phase.
-
-As referenced earlier, I used Balsamiq to create my wireframe, a simplified, stripped down version of what I wanted my website to be.
+Wireframes are often used in website design and are relevant to the skeleton plane.. These are 2D models of what finished product will be which should be completed at the research phase. As referenced earlier, I used Balsamiq to create my wireframe, a simplified, stripped down version of what I wanted my website to be.
 
 It worked as a starting point and helped me to decide on the form, information architecture and arrangement.
 
-It allowed me to see the overall balance of elements and structure and to decide on what gets included andhow it's organised 
-
-Wireframes allow us to revisit stratgey and goals
-
-Per the tutorials, the wireframes help the develop to revisit the strategy and goals of the website and to investigate whether the relationships work and does it make sense (labels, arrangement and navigation)
+It allowed me to see the overall balance of elements and structure and to decide on what gets included andhow it's organised. Per the tutorials, the wireframes help the develop to revisit the strategy and goals of the website and to investigate whether the relationships work and does it make sense (labels, arrangement and navigation)
 
 5. Surface Plane:
 
 The surface plane is a visual language that provides information and context. It provides colour, layout, fonts, images, order, sequence and the site's identity.
 
-Provides economy- important elements easily recognised. i dneoted this with italics and boldings as well as heading size and the structure of the secitons
+It is also concerned with economy- important elements should be easily recognised. I applied this with italics and boldings as well as heading size and the structure of the sections.
 
 I considered progressive disclosure, and as the user moves through navigational elements, the welcome page leads to far more information on the 'Our Mission' page and finally interaction is expected on the Sign-Up page.
 
-Color contrast between foreground and background. I used the colour combination of purple on white throughout as it was simple but stark and offered adequate contrast so as to ensure that all of the text was legible  and consistent.
+I also considered color contrast between foreground and background. I used the colour combination of purple on white throughout as it was simple but stark and offered adequate contrast so as to ensure that all of the text was legible  and consistent.
 
 I used the font of Verdana as I researched fond online and it was recommended as highly legible no matter what font size.
 

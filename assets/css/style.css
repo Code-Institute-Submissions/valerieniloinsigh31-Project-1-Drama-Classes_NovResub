@@ -137,12 +137,10 @@ p {
 /*video of applauding audience*/
 
 .applause-video {
-    margin-left:20%;
-    flex-grow:1;
+    margin-left:50%;
     border:none;
     margin:0;
     padding:0;
-    max-width: fit-content;
 }
 
 /*location*/
