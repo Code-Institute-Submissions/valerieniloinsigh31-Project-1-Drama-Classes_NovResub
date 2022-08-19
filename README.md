@@ -156,8 +156,8 @@ Response to testing: As intended, the collapsible widgets expands to reveal the 
   Responsiveness testing:
   
                             Iphone 11  Macbookpro  Notes
-  Site is responsive>=700px   n/a      Good         
-  Site is responsive<=700px.  Good     n/a.   When does screen get too small
+  Site is responsive>=700px   n/a      Good         Issues when testing on my actual IPhone but website looked perfect on developer tools mobile viewport test.
+  Site is responsive<=700px.  Good     n/a.   
   Links/URLs:                 Good     Good
   Images work:                Good     Good
 
@@ -183,12 +183,12 @@ Interesting bugs and problems discovered whilst testing:
   <li>
   Sign-Up Page: Initially I thought one button could be used to submit all selected answers but it only worked to subnmit the feedback so I separate the sections into different forms.
   </li> 
-  <li>
-  Please see a list of the HTML errors below, with my response to the issues included.
-  </li>
-  <h3>Unaddressed bugs and problems"</h3>
+  <h3>Unaddressed bugs and problems</h3>
   <li>
   Sign-Up Page: One unaddressed issue that I was unsure about how to resolve is that for the checkboxes class style section, it is the intention that the user can select as many classtypes as thet want. However, once the submission page is opened upon submission, only one answer is revealed.
+  </li>
+  <li>
+  The images on the 'Our Mission page' did not appear on my iphone when I dpeloyed and ran website. I tried to adjust and apply flex and resave. Still the images don't apear but when I did the 'mobile viewport testing' on developer tools, the website looked perfect. Hoping that this is just a big with my phone.
   </li>
 
 Bugs:
@@ -654,6 +654,7 @@ Redid the validation testing and no errors:
    <li>https://css-tricks.com/pseudo-class-selectors/</li>
    <li>https://stackoverflow.com/</li>
    <li>https://tobiasahlin.com/spinkit/</li>
+   <li>https://images.all-free-download.com/images/graphicwebp/under_water_fashion_woman_606595.webp</li>
    </ul>
 
 
@@ -754,7 +755,7 @@ I ensured the following when designing the website:
 <li>Consistency of terms, content and imagery have a stable and consistent style. The font used throughout is Verdana and I aimed to keep the tone consistent</li>
 </ul>
 
-I ensured that items only differed from the exxpected design when the website was enhanced because of it
+I ensured that items only differed from the expected design when the website was enhanced because of it
 
 A few examples of these design enhancements include the text-entry boxes highlighting in pink once clicked on, on the 'Sign-Up' page, the collapsible widget for Contact Details on the 'Sign-Up Page', the classes section on the 'Welcome Page' having a red border and the additional, eye-catching animations added to the 'Pure Drama' title on the Welcome page and 'Joanne Downey' photo on the 'Our Mission' page
 
@@ -810,4 +811,12 @@ I also considered color contrast between foreground and background. I used the c
 
 I used the font of Verdana as I researched fond online and it was recommended as highly legible no matter what font size.
 
+</p>
+
+<h4>Points of Improvement going forward</h4>
+<p>
+Despite my greatest intentions, scope creep did set in and I added a lot of features/altered code int he last week.
+I will work to perfect my planning and do the testing throughout the process.
+I had left it a bit later than desired for the tesing.
+I will solidify my knowledge of flex-box as I did have some difficulty with images appearing off-centre/not appearing on ym actual Iphone and appearing only on the Developer Tools mobile viewport.
 </p>
