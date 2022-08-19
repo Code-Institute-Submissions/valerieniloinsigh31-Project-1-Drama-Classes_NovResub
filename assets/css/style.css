@@ -1,6 +1,7 @@
 /*For application of flexbox where needed. Coding taken from 'stackoverflow.com'*/
 
-body, html {
+body,
+html {
   width: 100%;
   height: 100%;
   margin: 0;
@@ -8,59 +9,60 @@ body, html {
 }
 
 .row-container {
-display: flex;
-width: 100%;
-height:100%;
-justify-content:centre;
-text-align:center;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: centre;
+  text-align: center;
 }
 
 .flex {
-  flex-grow:1;
-  border:none;
-  margin:0;
-  padding:0;
+  flex-grow: 1;
+  border: none;
+  margin: 0;
+  padding: 0;
 }
 
 
 
 body {
-    margin: 0;
-    padding: 0;
-    font-family: "Verdana", sans-serif;
-    background-color: #0000ff00;
-    color:#fff;
+  margin: 0;
+  padding: 0;
+  font-family: "Verdana", sans-serif;
+  background-color: #0000ff00;
+  color: #fff;
 }
 
 /*Navigational headings*/
 
 nav ul {
-    list-style:none;
-    background-color: #6D10FF;
-    text-align:center;
-    padding:0;
-    margin:0;
+  list-style: none;
+  background-color: #6D10FF;
+  text-align: center;
+  padding: 0;
+  margin: 0;
 }
 
 nav li {
-    font-size:1.2em;
-    line-height:40px;
-    height:40px;
-    display: inline-block;
-    margin:2.5%;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  display: inline-block;
+  margin: 2.5%;
 }
 
 nav a {
-    text-decoration:none;
-    font-weight:550;
-    color:#fff;
-    display:block;
+  text-decoration: none;
+  font-weight: 550;
+  color: #fff;
+  display: block;
 }
+
 /*Responsive hover on navigation section*/
 
 nav a:hover {
-    background-color:#fff;
-    color:#4a4a4f;
+  background-color: #fff;
+  color: #4a4a4f;
 }
 
 /*Landing page*/
@@ -71,174 +73,192 @@ nav a:hover {
   /*Adding an animation to the title, using keyframe*/
   display: inline-block;
   margin-left: 40%;
-  animation: tada; 
+  animation: tada;
   animation-duration: 5s;
-  color:#6D10FF;
+  color: #6D10FF;
 }
 
 /*friends background image*/
 
 #friends-image {
-    height: 40rem;
-    width: 100%;
-    background: url("../images/Happy_group_of_friends_on_a_wall.jpeg") no-repeat center center;
-    border:#6D10FF solid 2px;
-    background-color:#6D10FF;
+  height: 40rem;
+  width: 100%;
+  background: url("../images/Happy_group_of_friends_on_a_wall.jpeg") no-repeat center center;
+  border: #6D10FF solid 2px;
+  background-color: #6D10FF;
 }
 
 /*Pure Drama intro*/
 h2 {
-    text-align:center;
-    color:white;
+  text-align: center;
+  color: white;
 }
 
 h1 {
-    text-align:center;
-    color:black;
+  text-align: center;
+  color: black;
 }
 
 p {
-    color:white;
-    text-align:left;
+  color: white;
+  text-align: left;
 }
 
 .intro {
-    background-color: #6D10FF;
+  background-color: #6D10FF;
 }
 
 
 .Classes {
-    text-decoration-color: #6D10FF;
-    background-color: aquamarine;
+  text-decoration-color: #6D10FF;
+  background-color: aquamarine;
 }
 
 /*class times*/
 
 #class-times {
-    background-image: url("../images/Empty_auditorium.avif");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    width: 100%;
-    overflow: hidden;
+  background-image: url("../images/Empty_auditorium.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  overflow: hidden;
 }
 
 #class-times div {
-    color:#fff;
-    background-color: rgba(0, 0, 0, .6);
-    width: 20%;
-    height: 300px;
-    float: left;
-    padding: 30px 0px 0px 10px;
-    text-align:center;
-    border: 2px solid red;
-    box-sizing:border-box;
+  color: #fff;
+  background-color: rgba(0, 0, 0, .6);
+  width: 20%;
+  height: 300px;
+  float: left;
+  padding: 30px 0px 0px 10px;
+  text-align: center;
+  border: 2px solid red;
+  box-sizing: border-box;
 
+}
+
+/*video*/
+
+.video-container {
+  display: flex;
+  justify-content: centre;
+  text-align: center;
+  overflow: hidden;
+  height: 100vh;
+  width:100vw;
+}
+
+.video {
+  object-fit:fill;
+  flex-grow: 1;
+  border: none;
+  margin: 0;
+  padding: 0;
 }
 
 /*location*/
 
 .town-hall {
-    font-size: 180%;
-    color: #fff;
-    background-color:#6D10FF;
-    text-align:center;
+  font-size: 180%;
+  color: #fff;
+  background-color: #6D10FF;
+  text-align: center;
 }
 
 /*footer*/
 
 footer {
-    height: 150px;
+  height: 150px;
 }
 
-.Links 
-{
-    text-align: center;
+.Links {
+  text-align: center;
 }
 
-.Links > li {
-    display: inline;
+.Links>li {
+  display: inline;
 }
 
 .Links i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: #3a3a3a;
+  font-size: 160%;
+  margin: 1%;
+  padding: 5%;
+  color: #3a3a3a;
 }
 
 /*Mission page*/
 
 .Mission {
-    background-color:#6D10FF;
-    color:white;
+  background-color: #6D10FF;
+  color: white;
 }
 
 #mission-image {
   height: 60vh;
-  width:100%;
+  width: 100%;
   background: url("../images/mission.avif") no-repeat center center;
 }
 
 /*Joanne section*/
 
 .Joanne {
-    background-color:#6D10FF;
-    color:white;
+  background-color: #6D10FF;
+  color: white;
 }
 
 /*Class description section*/
 
 .Classes {
-    background-color:#6D10FF;
-    color:white;
+  background-color: #6D10FF;
+  color: white;
 }
 
 /*Joanne Downey section*/
 
 .joanne-image {
-    margin-left: 40%;
-    border-radius:50%;
-    height:20rem;
-    width:20rem;
-    /*Adding an animation to the image, using keyframe*/
-    display: inline-block;
-    margin-left: 40%;
-    animation: rubberBand; 
-    animation-duration: 5s;
+  margin-left: 40%;
+  border-radius: 50%;
+  height: 20rem;
+  width: 20rem;
+  /*Adding an animation to the image, using keyframe*/
+  display: inline-block;
+  margin-left: 40%;
+  animation: rubberBand;
+  animation-duration: 5s;
 }
 
 /*Classes description section*/
 
 /*Classes images, used 'vw' and 'vh' metrics for responsivity*/
 .Classes {
-    Display:inline-block
+  Display: inline-block
 }
 
 .classes-image-one {
-    width:20vw;
-    height:35vh;
-    margin-left:6px;
+  width: 20vw;
+  height: 35vh;
+  margin-left: 6px;
 }
 
 .classes-image-two {
-    width:20vw;
-    height:35vh;
+  width: 20vw;
+  height: 35vh;
 }
 
 .classes-image-three {
-    width:18vw;
-    height:35vh;
+  width: 18vw;
+  height: 35vh;
 }
 
 .classes-image-four {
-    width:20vw;
-    height:35vh;
+  width: 20vw;
+  height: 35vh;
 }
 
 .classes-image-five {
-    width:20vw;
-    height:35vh;
+  width: 20vw;
+  height: 35vh;
 }
 
 /*Sign-Up Page*/
@@ -246,131 +266,153 @@ footer {
 /*Spinner design*/
 
 .spinner {
-    margin: 100px auto;
-    width: 100px;
-    height: 100px;
-    position: relative;
-    text-align: center;
-    
-    -webkit-animation: sk-rotate 2.0s infinite linear;
-    animation: sk-rotate 2.0s infinite linear;
+  margin: 100px auto;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  text-align: center;
+
+  -webkit-animation: sk-rotate 2.0s infinite linear;
+  animation: sk-rotate 2.0s infinite linear;
+}
+
+.dot1,
+.dot2 {
+  width: 60%;
+  height: 60%;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  background-color: #6D10FF;
+  border-radius: 100%;
+
+  -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+  animation: sk-bounce 2.0s infinite ease-in-out;
+}
+
+.dot2 {
+  top: auto;
+  bottom: 0;
+  -webkit-animation-delay: -1.0s;
+  animation-delay: -1.0s;
+}
+
+@-webkit-keyframes sk-rotate {
+  100% {
+    -webkit-transform: rotate(360deg)
   }
-  
-  .dot1, .dot2 {
-    width: 60%;
-    height: 60%;
-    display: inline-block;
-    position: absolute;
-    top: 0;
-    background-color: #6D10FF;
-    border-radius: 100%;
-    
-    -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
-    animation: sk-bounce 2.0s infinite ease-in-out;
+}
+
+@keyframes sk-rotate {
+  100% {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg)
   }
-  
-  .dot2 {
-    top: auto;
-    bottom: 0;
-    -webkit-animation-delay: -1.0s;
-    animation-delay: -1.0s;
-  }
-  
-  @-webkit-keyframes sk-rotate { 100% { -webkit-transform: rotate(360deg) }}
-  @keyframes sk-rotate { 100% { transform: rotate(360deg); -webkit-transform: rotate(360deg) }}
-  
-  @-webkit-keyframes sk-bounce {
-    0%, 100% { -webkit-transform: scale(0.0) }
-    50% { -webkit-transform: scale(1.0) }
-  }
-  
-  @keyframes sk-bounce {
-    0%, 100% { 
-      transform: scale(0.0);
-      -webkit-transform: scale(0.0);
-    } 50% { 
-      transform: scale(1.0);
-      -webkit-transform: scale(1.0);
-    }
+}
+
+@-webkit-keyframes sk-bounce {
+
+  0%,
+  100% {
+    -webkit-transform: scale(0.0)
   }
 
-  /*Sign-Up Form part 1*/
+  50% {
+    -webkit-transform: scale(1.0)
+  }
+}
 
-  .sign-up-title {
-    color:#6D10FF;
-    font-style: italic;
+@keyframes sk-bounce {
+
+  0%,
+  100% {
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
   }
 
-  .form-section {
-    background-color: #6D10FF;
-    color:white;
-    border: aqua;
-    font-style: oblique;
+  50% {
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
   }
+}
 
-  /*Sign-Up Form part 1*/
+/*Sign-Up Form part 1*/
 
-  .form-section-two {
-    background-color: #6D10FF;
-    color:white;
-    border: aqua;
-  }
+.sign-up-title {
+  color: #6D10FF;
+  font-style: italic;
+}
 
-  .join-button {
-    color:#6D10FF;
-    background-color:aqua;
-  }
+.form-section {
+  background-color: #6D10FF;
+  color: white;
+  border: aqua;
+  font-style: oblique;
+}
 
-  .classes-button {
-    color:#6D10FF;
-    background-color:aqua; 
-  }
+/*Sign-Up Form part 1*/
 
-  .info-button {
-    color:#6D10FF;
-    background-color:aqua; 
-  }
+.form-section-two {
+  background-color: #6D10FF;
+  color: white;
+  border: aqua;
+}
 
-  .type-button {
-    color:#6D10FF;
-    background-color:aqua;  
+.join-button {
+  color: #6D10FF;
+  background-color: aqua;
+}
+
+.classes-button {
+  color: #6D10FF;
+  background-color: aqua;
+}
+
+.info-button {
+  color: #6D10FF;
+  background-color: aqua;
+}
+
+.type-button {
+  color: #6D10FF;
+  background-color: aqua;
 }
 
 
-  .feedback-button {
-    color:#6D10FF;
-    background-color:aqua;
-  }
+.feedback-button {
+  color: #6D10FF;
+  background-color: aqua;
+}
 
-  /*Responsive picture*/
+/*Responsive picture*/
 
-  .sign-up-picture {
-    margin-left: 20%;
-  }
+.sign-up-picture {
+  margin-left: 20%;
+}
 
-  /*Form section pseudo-selector, applying focus to inputs and textareas*/
-  input:focus {
-    background: pink;
-  }
+/*Form section pseudo-selector, applying focus to inputs and textareas*/
+input:focus {
+  background: pink;
+}
 
-  textarea:focus {
-    background: pink;
-  } 
+textarea:focus {
+  background: pink;
+}
 
 
-    /*Contact details table*/
-    
-    .widget {
-      color:#6D10FF;
-      font-style: inherit;
-      opacity: 50%;
-    }
+/*Contact details table*/
 
-    .contact-table {
-      color:rgba(0, 0, 0, .6)
-    }
+.widget {
+  color: #6D10FF;
+  font-style: inherit;
+  opacity: 50%;
+}
 
-    .column {
-      text-align:center;
-      width:250px;
-  }
+.contact-table {
+  color: rgba(0, 0, 0, .6)
+}
+
+.column {
+  text-align: center;
+  width: 250px;
+}
