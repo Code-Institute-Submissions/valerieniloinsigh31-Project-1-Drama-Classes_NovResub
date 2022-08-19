@@ -818,5 +818,5 @@ I used the font of Verdana as I researched fond online and it was recommended as
 Despite my greatest intentions, scope creep did set in and I added a lot of features/altered code int he last week.
 I will work to perfect my planning and do the testing throughout the process.
 I had left it a bit later than desired for the tesing.
-I will solidify my knowledge of flex-box as I did have some difficulty with images appearing off-centre/not appearing on ym actual Iphone and appearing only on the Developer Tools mobile viewport.
+I will solidify my knowledge of flex-box as I did have some difficulty with images appearing off-centre/not appearing on my actual Iphone and appearing only on the Developer Tools mobile viewport.
 </p>
