@@ -55,7 +55,7 @@
 
         <form class="sign-up form" method="POST" action="https://formdump.codeinstitute.net/">
             <h2>Sign-up form <i class="fa-solid fa-file-signature"></i></h2>
-            <!-- Name and email details with submit button -->
+            <!-- Name and email details section -->
             <section class="info-section">
                 <fieldset>
                     <legend>
@@ -73,12 +73,9 @@
                     <label for="email">Email Address:</label>
                     <input name="email" id="email" type="email" required>
                 </fieldset>
-                <input class="info-button" type="submit" value="Submit">
             </section>
-        </form>
         <hr>
-        <!-- Class type with radiobuttons with submit button -->
-        <form class="sign-up-form-one" method="POST" action="https://formdump.codeinstitute.net/">
+        <!-- Class type with radiobuttons section -->
             <section class="sign-up-form-one">
                 <h2>Choose your type <i class="fa-solid fa-square-check"></i></h2>
                 <label for="individual">Individual</label>
@@ -87,41 +84,35 @@
                 <input type="radio" name="class_preference" id="group" value="group" required>
                 <label for="both">Both</label>
                 <input type="radio" name="class_preference" id="both" value="both" required>
-                <input class="type-button" type="submit" value="Submit">
             </section>
-        </form>
         <hr>
-        <!-- Class style with checkboxes with submit button -->
-        <form class="sign-up-form-two" method="POST" action="https://formdump.codeinstitute.net/">
+        <!-- Class style with checkboxes section -->
             <section class="form-section-two">
                 <h2>Choose your style <i class="fa-solid fa-square-check"></i></h2>
                 <div>
                     <label for="drama"> <i class="fa-solid fa-masks-theater"></i> Drama</label>
-                    <input type="checkbox" name="class_preferences" id="drama" value="drama" required>
+                    <input type="checkbox" name="class_preferences" id="drama" value="drama">
                 </div>
                 <div>
                     <label for="sketch"> <i class="fa-solid fa-pen"></i>Sketch Writing</label>
-                    <input type="checkbox" name="class_preferences" id="sketch" value="sketch" required>
+                    <input type="checkbox" name="class_preferences" id="sketch" value="sketch">
                 </div>
                 <div>
                     <label for="improv"> <i class="fa-solid fa-people-group"></i> Improv</label>
-                    <input type="checkbox" name="class_preferences" id="improv" value="improv" required>
+                    <input type="checkbox" name="class_preferences" id="improv" value="improv">
                 </div>
                 <div>
                     <label for="stand-up"><i class="fa-solid fa-microphone"></i> Stand-Up </label>
-                    <input type="checkbox" name="class_preferences" id="stand-up" value="stand-up" required>
+                    <input type="checkbox" name="class_preferences" id="stand-up" value="stand-up">
                 </div>
                 <div>
                     <label for="hosting"><i class="fa-solid fa-face-laugh-wink"></i>Hosting </label>
-                    <input type="checkbox" name="class_preference" id="hosting" value="hosting" required>
-                    <input class="classes-button" type="submit" value="Submit">
+                    <input type="checkbox" name="class_preference" id="hosting" value="hosting">
                 </div>
             </section>
-        </form>
     </section>
 
     <!-- Feedback section with box with submit button -->
-    <form class="feedback" action="https://formdump.codeinstitute.net/" method="post">
         <label for="feedback"><i class="fa-solid fa-bullhorn"></i> Feedback</label>
         <br>
         <textarea id="feedback" cols="20" rows="5" name="feedback" placeholder="Your Requests" required></textarea>
