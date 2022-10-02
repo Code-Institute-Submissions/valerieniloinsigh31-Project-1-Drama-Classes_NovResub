@@ -437,92 +437,156 @@ to bed added for all images in particular*/
   /*WELCOME PAGE IMAGES*/
 /* welcome cover photo */
 #friends-image {
-
+  max-width: 100%;
+  height: auto;
   };
 
   /* five sections for class times */
   #class-times {
-
+    max-width: 100%;
+    height: auto;
   };
 
   /* video section */
 
-.video-container {};
+.video-container {
+  max-width: 100%;
+  width:80vw;
+  height: auto;
+};
 
   /*iframe map section */
 
-  .flex {};
+  .flex {
+  max-width: 100%;
+  height: auto;
+  };
 
   /* MISSION PAGE IMAGES */
 
   /* Mission image of 'road ahead' sign */
 
   #mission-image {
-
+    max-width: 100%;
+    height: auto;
   };
 
   /*Joanne Downey image*/
 
-  .joanne-image {};
+  .joanne-image {
+  max-width: 100%;
+  height: auto;
+  margin-left: 20%;
+  margin-right:20%;
+  };
 
-}
 
 /* Class images */
 
-.classes-image-one {};
-.classes-image-two {};
-.classes-image-three {};
-.classes-image-four {};
-.classes-image-five {};
+.classes-image-one {
+  max-width: 100%;
+  height: auto;
+};
+.classes-image-two {
+  max-width: 100%;
+  height: auto;
+};
+.classes-image-three {
+  max-width: 100%;
+  height: auto;
+};
+.classes-image-four {
+  max-width: 100%;
+  height: auto;
+};
+.classes-image-five {
+  max-width: 100%;
+  height: auto;
+};
 
 /*Responsive image on sign-up page: 1st image used if max-width is 699px second if over */
 
-.flex {};
+.flex {
+  max-width: 100%;
+  height: auto;
+};
 
 
 /*mobiles*/
+
 @media screen (max-width: 320px) {
     /*WELCOME PAGE IMAGES*/
 /* welcome cover photo */
 #friends-image {
-
+  max-width: 100%;
+  height: auto;
 };
 
 /* five sections for class times */
 #class-times {
-
+  max-width: 100%;
+  height: auto;
 };
 
 /* video section */
 
-.video-container {};
+.video-container {
+  max-width: 100%;
+  height: auto;
+};
 
 /*iframe map section */
 
-.flex {};
+.flex {
+  max-width: 100%;
+  height: auto;
+};
 
 /* MISSION PAGE IMAGES */
 
 /* Mission image of 'road ahead' sign */
 
 #mission-image {
-
+  max-width: 100%;
+  height: auto;
 };
 
 /*Joanne Downey image*/
 
-.joanne-image {};
+.joanne-image {
+  max-width: 100%;
+  height: auto;
+  margin-right:30%;
+  };
 
 }
 
 /* Class images */
 
-.classes-image-one {};
-.classes-image-two {};
-.classes-image-three {};
-.classes-image-four {};
-.classes-image-five {};
+.classes-image-one {
+  max-width: 100%;
+  height: auto;
+};
+.classes-image-two {
+  max-width: 100%;
+  height: auto;
+};
+.classes-image-three {
+  max-width: 100%;
+  height: auto;
+};
+.classes-image-four {
+  max-width: 100%;
+  height: auto;
+};
+.classes-image-five {
+  max-width: 100%;
+  height: auto;
+};
 
 /*Responsive image on sign-up page: 1st image used if max-width is 699px second if over */
 
-.flex {};
+.flex {
+  max-width: 100%;
+  height: auto;
+};
