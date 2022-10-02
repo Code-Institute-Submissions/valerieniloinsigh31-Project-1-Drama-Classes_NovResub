@@ -221,6 +221,7 @@ footer {
   border-radius: 50%;
   height: 20rem;
   width: 20rem;
+
   /*Adding an animation to the image, using keyframe*/
   display: inline-block;
   margin-left: 40%;
@@ -416,3 +417,5 @@ textarea:focus {
   text-align: center;
   width: 250px;
 }
+
+/*Media queries section for responsiveness*/
