@@ -419,3 +419,102 @@ textarea:focus {
 }
 
 /*Media queries section for responsiveness*/
+
+
+/* --------- Media queries-two listed here 481px (ipads and tablets) versus 320px (small mobile or smaller), all other features of website designed to be responsive to all devices in original code 
+to bed added for all images in particular*/
+
+/* ipads and tablets */
+@media (max-width: 481px) {
+  /*WELCOME PAGE IMAGES*/
+/* welcome cover photo */
+#friends-image {
+
+  };
+
+  /* five sections for class times */
+  #class-times {
+
+  };
+
+  /* video section */
+
+.video-container {};
+
+  /*iframe map section */
+
+  .flex {};
+
+  /* MISSION PAGE IMAGES */
+
+  /* Mission image of 'road ahead' sign */
+
+  #mission-image {
+
+  };
+
+  /*Joanne Downey image*/
+
+  .joanne-image {};
+
+}
+
+/* Class images */
+
+.classes-image-one {};
+.classes-image-two {};
+.classes-image-three {};
+.classes-image-four {};
+.classes-image-five {};
+
+/*Responsive image on sign-up page: 1st image used if max-width is 699px second if over */
+
+.flex {};
+
+
+/*mobiles*/
+@media (max-width: 320px) {
+    /*WELCOME PAGE IMAGES*/
+/* welcome cover photo */
+#friends-image {
+
+};
+
+/* five sections for class times */
+#class-times {
+
+};
+
+/* video section */
+
+.video-container {};
+
+/*iframe map section */
+
+.flex {};
+
+/* MISSION PAGE IMAGES */
+
+/* Mission image of 'road ahead' sign */
+
+#mission-image {
+
+};
+
+/*Joanne Downey image*/
+
+.joanne-image {};
+
+}
+
+/* Class images */
+
+.classes-image-one {};
+.classes-image-two {};
+.classes-image-three {};
+.classes-image-four {};
+.classes-image-five {};
+
+/*Responsive image on sign-up page: 1st image used if max-width is 699px second if over */
+
+.flex {};
