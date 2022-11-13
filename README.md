@@ -628,11 +628,22 @@ Redid the validation testing and no errors:
    
    <b>DEPLOYMENT PROCESS</b>
 
-   The site was deployed to GitHub pages. I took the following steps to deploy the site:
+   The site was deployed to GitHub pages. I took the following steps to deploy the site (please see relevant screengrabs that further illustrate the process also):
 <ol>
    <li>In the relevant GitHub repositary, I navigated to the Settings tab.</li>
+
+  <b>Repository:</b> ![alt text](./assets/images/deploypp1_repos.png)
+
+  <b>Settings:</b>![alt text](./assets/images/deploypp1_settings.png)
+
    <li>From the source section drop-down menu, I selected the Master Branch.</li>
+
+   <b>Main branch selection:</b>![alt text](./assets/images/deploypp1_mainbranch.png)
+
    <li>Once the Master branch was selected, the page automatically refreshed with a detailed ribbon display to indicate the successful deployment.</li>
+
+   <b>Live website published:</b>![alt text](./assets/images/deploypp1_livelink.png)
+
 </ol>
    As then specified on GITHUB, the <em>live link</em> can be found here:
 
