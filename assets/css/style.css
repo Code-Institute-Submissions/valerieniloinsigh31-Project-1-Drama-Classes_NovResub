@@ -225,6 +225,13 @@ footer {
 
 /*Joanne Downey section*/
 
+/*Container for Joanne's image*/
+.joanne-container {
+  display: flex;
+  width: 100%;
+  text-align: center;
+}
+
 .joanne-image {
   margin-left: 40%;
   border-radius: 50%;
