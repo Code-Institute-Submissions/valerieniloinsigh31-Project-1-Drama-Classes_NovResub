@@ -72,10 +72,11 @@ nav a:hover {
 .title {
   /*Adding an animation to the title, using keyframe*/
   display: inline-block;
-  margin-left: 40%;
   animation: tada;
   animation-duration: 5s;
   color: #6D10FF;
+  width:100%;
+  justify-content: center;
 }
 
 /*friends background image*/
