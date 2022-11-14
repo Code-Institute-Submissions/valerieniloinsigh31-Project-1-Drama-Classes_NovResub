@@ -439,6 +439,7 @@ textarea:focus {
   color: #6D10FF;
   font-style: inherit;
   opacity: 50%;
+  flex-direction: column;
 }
 
 .contact-table {
