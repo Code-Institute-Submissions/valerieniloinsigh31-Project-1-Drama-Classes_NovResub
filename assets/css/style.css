@@ -257,7 +257,7 @@ footer {
 }
 
 #Classes > img {
-    width: 20vh;
+    width: 20vw;
 }
 
 .classes-image-one {
@@ -420,7 +420,7 @@ footer {
   background-color: aqua;
 }
 
-/*Responsive picture*/
+/*Sign-up picture*/
 
 .sign-up-picture {
   margin-left: 20%;
@@ -472,52 +472,31 @@ textarea:focus {
 /* --------- Media queries-two listed here 481px (ipads and tablets) versus 320px (small mobile or smaller), all other features of website designed to be responsive to all devices in original code 
 to bed added for all images in particular*/
 
-/* Now let’s see some common breakpoints for widths of devices:
-
-320px — 480px: Mobile devices
-481px — 768px: iPads, Tablets
-769px — 1024px: Small screens, laptops
-1025px — 1200px: Desktops, large screens
-1201px and more —  Extra large screens, TV */
-
 /* ipads and tablets */
-@media screen (max-width: 481px) {
-  /*WELCOME PAGE IMAGES*/
+@media screen (max-width: 481px)
+
+  /*WELCOME PAGE*/
+
 /* welcome cover photo */
 #friends-image {
-  max-width: 100%;
+  max-width: 100vw;
   height: auto;
-  };
-
-  /* five sections for class times */
-  #class-times {
-    max-width: 100%;
-    height: auto;
-  };
-
-  /* video section */
-
-.video-container {
-  max-width: 100%;
-  width:80vw;
-  height: auto;
-};
+  }
 
   /*iframe map section */
 
   .flex {
-  max-width: 100%;
+  max-width: 80vw;
   height: auto;
-  };
+  }
 
-  /* MISSION PAGE IMAGES */
+  /* MISSION PAGE*/
 
   /* Mission image of 'road ahead' sign */
 
   #mission-image {
-    max-width: 100%;
-    height: auto;
-  };
+    max-width: 100vw;
+  }
 
   /*Joanne Downey image*/
 
@@ -526,115 +505,75 @@ to bed added for all images in particular*/
   height: auto;
   margin-left: 20%;
   margin-right:20%;
-  };
+  }
 
 
 /* Class images */
 
 .classes-image-one {
-  max-width: 100%;
-  height: auto;
-};
+  max-width: 15vw;
+  height: 15vh;
+}
 .classes-image-two {
-  max-width: 100%;
-  height: auto;
-};
+  max-width: 15vw;
+  height: 15vh;
+}
 .classes-image-three {
-  max-width: 100%;
-  height: auto;
-};
+  max-width: 15vw;
+  height: 15vh;
+}
 .classes-image-four {
-  max-width: 100%;
-  height: auto;
-};
+  max-width: 15vw;
+  height: 15vh;
+}
 .classes-image-five {
-  max-width: 100%;
-  height: auto;
-};
-
-/*Responsive image on sign-up page: 1st image used if max-width is 699px second if over */
-
-.flex {
-  max-width: 100%;
-  height: auto;
-};
-
+  max-width: 15vw;
+  height: 15vh;
+}
 
 /*mobiles*/
 
-@media screen (max-width: 320px) {
+@media screen (max-width: 320px)
     /*WELCOME PAGE IMAGES*/
 /* welcome cover photo */
 #friends-image {
-  max-width: 100%;
-  height: auto;
-};
-
-/* five sections for class times */
-#class-times {
-  max-width: 100%;
-  height: auto;
-};
-
-/* video section */
-
-.video-container {
-  max-width: 100%;
-  height: auto;
-};
+  max-width: 100vw;
+}
 
 /*iframe map section */
 
 .flex {
   max-width: 100%;
   height: auto;
-};
+}
 
-/* MISSION PAGE IMAGES */
-
-/* Mission image of 'road ahead' sign */
-
-#mission-image {
-  max-width: 100%;
-  height: auto;
-};
-
+/* MISSION PAGE*/
 /*Joanne Downey image*/
 
 .joanne-image {
   max-width: 100%;
   height: auto;
-  margin-right:30%;
-  };
-
-}
+  }
 
 /* Class images */
 
 .classes-image-one {
-  max-width: 100%;
-  height: auto;
-};
+  max-width: 15vw;
+  height: 15vh;
+}
 .classes-image-two {
-  max-width: 100%;
-  height: auto;
-};
+  max-width: 15vw;
+  height: 15vh;
+}
 .classes-image-three {
-  max-width: 100%;
-  height: auto;
-};
+  max-width: 15vw;
+  height: 15vh;
+}
 .classes-image-four {
-  max-width: 100%;
-  height: auto;
-};
+  max-width: 15vw;
+  height: 15vh;
+}
 .classes-image-five {
-  max-width: 100%;
-  height: auto;
-};
-
-/*Responsive image on sign-up page: 1st image used if max-width is 699px second if over */
-
-.flex {
-  max-width: 100%;
-  height: auto;
-};
+  max-width: 15vw;
+  height: 15vh;
+}
