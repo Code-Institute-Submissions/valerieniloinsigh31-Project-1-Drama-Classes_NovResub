@@ -160,8 +160,8 @@ Response to testing: As intended, the collapsible widgets expands to reveal the 
                 <tr>
                     <th><b>Iphone 12 pro</b</th>
                     <th><b>Macbook Pro</b></th>
-                    <th><b>Ipad</b></th>
-                    <th><b>Nest</b></th>
+                    <th><b>Ipad Air</b></th>
+                    <th><b>Nest Hub</b></th>
                 </tr>
                 <tr>
                     <td>Site is responsive<=700px</td>
@@ -196,13 +196,13 @@ Response to testing: As intended, the collapsible widgets expands to reveal the 
 
  <p>Screengrabs of different tests:</p>
 
- ![alt text](./assets/images/HTML_Error_2.png)
+ Iphone 12 pro: ![alt text](./assets/images/iphone12_test.png)
 
- ![alt text](./assets/images/HTML_Error_2.png)
+ MacBook Pro: ![alt text](./assets/images/macbookpro_test.png)
 
- ![alt text](./assets/images/HTML_Error_2.png)
+ Ipad Air: ![alt text](./assets/images/ipadair_test.png)
 
- ![alt text](./assets/images/HTML_Error_2.png)
+ Nest Hub:  ![alt text](./assets/images/nesthub_test.png)
 
  2. To different browsers
 
