@@ -117,28 +117,24 @@ p {
   background-color: #6D10FF;
 }
 
-
-.Classes {
-  text-decoration-color: #6D10FF;
-  background-color: aquamarine;
-}
-
 /*class times*/
 
 #class-times {
+  text-decoration-color: #6D10FF;
+  background-color: aquamarine;
   background-image: url("../images/Empty_auditorium.avif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   width: 100%;
-  flex-direction: column;
+  overflow: hidden;
 }
 
 #class-times div {
   color: #fff;
   background-color: rgba(0, 0, 0, .6);
-  width: 20vw;
-  height:50vh;
+  width: 20%;
+  height: 300px;
   overflow:scroll;
   float: left;
   padding: 30px 0px 0px 10px;
@@ -249,9 +245,19 @@ footer {
 /*Classes description section*/
 
 /*Classes images, used 'vw' and 'vh' metrics for responsivity*/
-.Classes {
+#Classes {
   Display: inline-block;
   flex-direction: column;
+  clear: both;
+  background-color: #6D10FF;
+  color: white;
+}
+.class-container {
+  display: flex;
+}
+
+#Classes > img {
+    width: 20vh;
 }
 
 .classes-image-one {
