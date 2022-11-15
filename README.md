@@ -153,21 +153,15 @@ Response to testing: As intended, the collapsible widgets expands to reveal the 
   Once I deployed my website, I opened the link on my i-phone and noted that the images on the 'Our Mission' page did not appear at all and the classes boxes on the Welcome page became distorted. Additionally the video appeared off-centre.
     I applied flex to these elements and retested per below:
    
-  Responsiveness testing:
-  
-                            Iphone 11  Macbookpro  Notes
-  Site is responsive>=700px   n/a      Good         Issues when testing on my actual IPhone but website looked perfect on developer tools mobile viewport test.
-  Site is responsive<=700px.  Good     n/a.   
-  Links/URLs:                 Good     Good
-  Images work:                Good     Good
-
+  <b>Responsiveness testing:</b>
+                       
   <table>
                 <caption><b>Testing for responsiveness</b></caption>
                 <tr>
-                    <th>Iphone</th>
-                    <th>Macbook Pro</th>
-                    <th>Safari</th>
-                    <th>Internet Explorer</th>
+                    <th><b>Iphone 12 pro</b</th>
+                    <th><b>Macbook Pro</b></th>
+                    <th><b>Ipad</b></th>
+                    <th><b>Nest</b></th>
                 </tr>
                 <tr>
                     <td>Site is responsive<=700px</td>
@@ -200,8 +194,15 @@ Response to testing: As intended, the collapsible widgets expands to reveal the 
             </table> 
 
 
- Viewports tested online:
- What type of viewports, make a list
+ <p>Screengrabs of different tests:</p>
+
+ ![alt text](./assets/images/HTML_Error_2.png)
+
+ ![alt text](./assets/images/HTML_Error_2.png)
+
+ ![alt text](./assets/images/HTML_Error_2.png)
+
+ ![alt text](./assets/images/HTML_Error_2.png)
 
  2. To different browsers
 
@@ -227,7 +228,7 @@ Response to testing: As intended, the collapsible widgets expands to reveal the 
                     <td>Yes</td>
                 </tr>
                 <tr>
-                    <td>Intended responsiveness:</td>
+                    <td>Intended functionality:</td>
                 </tr>
                 <tr>
                     <td>Yes</td>
