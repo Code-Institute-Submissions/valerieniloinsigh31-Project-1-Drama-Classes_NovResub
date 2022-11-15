@@ -161,6 +161,44 @@ Response to testing: As intended, the collapsible widgets expands to reveal the 
   Links/URLs:                 Good     Good
   Images work:                Good     Good
 
+  <table>
+                <caption><b>Testing for responsiveness</b></caption>
+                <tr>
+                    <th>Iphone</th>
+                    <th>Macbook Pro</th>
+                    <th>Safari</th>
+                    <th>Internet Explorer</th>
+                </tr>
+                <tr>
+                    <td>Site is responsive<=700px</td>
+                </tr>
+                <tr>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Links/URLs:</td>
+                </tr>
+                <tr>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Images work:</td>
+                </tr>
+                <tr>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+            </table> 
+
 
  Viewports tested online:
  What type of viewports, make a list
@@ -170,8 +208,6 @@ Response to testing: As intended, the collapsible widgets expands to reveal the 
  I opened the website on my laptop and it worked accordingly
 
  Browsers: Safari, Google Chrome, Internet Explorer, Firefox
-
-  
 
   <table>
                 <caption><b>Browser compatibility:</b></caption>
