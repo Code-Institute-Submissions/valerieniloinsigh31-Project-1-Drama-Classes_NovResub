@@ -171,10 +171,35 @@ Response to testing: As intended, the collapsible widgets expands to reveal the 
 
  Browsers: Safari, Google Chrome, Internet Explorer, Firefox
 
-  Browser compatibility:
-                               Chrome       Firefox         Safari         IE        Notes:
-  Intended appearance:         Yes          Yes              Yes           Yes
-  Intended responsiveness:     Yes          Yes              Yes           Yes       
+  
+
+  <table>
+                <caption><b>Browser compatibility:</b></caption>
+                <tr>
+                    <th>Chrome</th>
+                    <th>Firefox</th>
+                    <th>Safari</th>
+                    <th>Internet Explorer</th>
+                </tr>
+                <tr>
+                    <td>Intended responsiveness:</td>
+                </tr>
+                <tr>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Intended responsiveness:</td>
+                </tr>
+                <tr>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                </tr>
+            </table>   
 
 VALIDATOR TESTING:
 Interesting bugs and problems discovered whilst testing:
@@ -829,5 +854,4 @@ I used the font of Verdana as I researched fond online and it was recommended as
 Despite my greatest intentions, scope creep did set in and I added a lot of features/altered code int he last week.
 I will work to perfect my planning and do the testing throughout the process.
 I had left it a bit later than desired for the tesing.
-I will solidify my knowledge of flex-box as I did have some difficulty with images appearing off-centre/not appearing on my actual Iphone and appearing only on the Developer Tools mobile viewport.
 </p>
